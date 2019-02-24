@@ -1,0 +1,86 @@
+{
+	"status": 1,
+	"message": [
+		"success"
+	],
+	"messageCode": [
+		"package_available"
+	],
+	"data": {
+		"upsellPackageDetails": {
+			"faster": {
+				"packageName": "Faster Fibre",
+				"packageId": 292,
+				"packageCode": "faster",
+				"monthlyCharge": 33.5,
+				"contract": [
+					{
+						"propositionId": 30132,
+						"contractLength": 24,
+						"hasPromo": false,
+						"monthlyChargeWithPromo": 33.5,
+						"promotionLength": 24,
+						"promoCode": "",
+						"selectedStatus": true,
+						"isBestOffer": false
+					},
+					{
+						"propositionId": 30007,
+						"contractLength": 18,
+						"hasPromo": true,
+						"monthlyChargeWithPromo": 26.5,
+						"promotionLength": 18,
+						"promoCode": "&pound;7off",
+						"selectedStatus": false,
+						"isBestOffer": true
+					},
+					{
+						"propositionId": 30130,
+						"contractLength": 12,
+						"hasPromo": false,
+						"monthlyChargeWithPromo": 33.5,
+						"promotionLength": 12,
+						"promoCode": "",
+						"selectedStatus": false,
+						"isBestOffer": false
+					}
+				],
+				"fibreLargeBoostSpeed": {
+					"minimumGuaranteedSpeed": "12",
+					"downloadSpeedLowerRange": "10",
+					"downloadSpeedUpperRange": "20",
+					"downloadSpeed50th": "15.0",
+					"uploadSpeed": "13",
+					"uploadSpeedLowerRange": "8"
+				},
+				"minimumGuaranteedSpeed": "12",
+				"downloadSpeedLowerRange": "10",
+				"downloadSpeedUpperRange": "20",
+				"downloadSpeed50th": "15.0",
+				"uploadSpeedLowerRange": "8",
+				"uploadSpeed": "10"
+			}
+		},
+		"tvType": "TV STORE",
+		"isExistingCustomer": false,
+		"onlineOrderId": "269",
+		"cli": "02011201704",
+		"isVoucherEligible": false,
+		"voucherEndDate": 1475017199000,
+		"voucherPrice": 0,
+		"lineInfoMessageCode": "existing_line",
+		"isNewLineType": false,
+		"estimatedGoLiveDate": "2018-02-20",
+		"minimumGuaranteedSpeed": "18.2",
+		"downloadSpeedLowerRange": "5",
+		"downloadSpeedUpperRange": "7",
+		"downloadSpeed50th": "6.0",
+		"uploadSpeedLowerRange": "0",
+		"uploadSpeed": "0",
+		"connectionFee": "FREE",
+		"isAppointmentRequired": false,
+		"isUfoOverride": null,
+		"mpf50percentSpeed": "6.0",
+		"isRouterRequired": true
+	}
+}

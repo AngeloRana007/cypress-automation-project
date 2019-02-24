@@ -1,0 +1,83 @@
+{ "modules" : [
+    {
+        "$ref" : "nestedAccordion",
+        "components" : [
+            {
+                "header": "Frequently asked questions",
+                "articles": [{
+                    "header": "What does my monthly broadband cost include?",
+                    "text": "<p>Your monthly broadband cost now includes line rental, so it is one fixed cost that remains the same for your 24 month contract.</p>"
+                },
+                {
+                    "header": "What does my plan include?",
+                    "text": "<p>It&rsquo;s our set of extra features that come with your plan which includes SuperSafe anti-virus protection, Phone Privacy Features &amp; voicemail service and much more</p>"
+                },
+                {
+                    "header": "How do I know my price won't go up?",
+                    "text": "<p>All our broadband plans come with a Fixed Price Guarantee. The price when you sign up is the same price you&rsquo;ll be paying right through your contract throughout your minimum contract term. If you are not within a minimum contract term, your prices are subject to change.</p>"
+                },
+                {
+                    "header": "Can I add TV at any stage?",
+                    "text": "<p>Yes. You can add TalkTalk TV to your plan at any time in My Account. TalkTalk TV lets you pick &amp; mix your perfect TV package with a range of flexible TV boosts, all with just a 1 month commitment so you&rsquo;re never tied into lengthly contracts.</p>"
+                },
+                {
+                    "header": "How fast will my broadband be?",
+                    "text": "<p>We&rsquo;ll give you the fastest broadband your line can handle, and you’ll see a speed estimate for your address before you sign up with us. Your speed will be affected by your distance from the telephone exchange, the performance of your PC and the wiring in your home.</p>"
+                },
+                {
+                    "header": "How much can I download?",
+                    "text": "<p>As much as you like. Our broadband plans give you unlimited downloads for your music, film and TV.</p>"
+                },
+                {
+                    "header": "Can I still make calls?",
+                    "text": "<p>Yes, but if you make calls without adding a Calls Boost, you&rsquo;ll be charged our standard rates. There is a £100 call usage limit, but we let you know when you&rsquo;re close to it. </p>"
+                },
+                {
+                    "header": "What if I don't want to make any calls at all?",
+                    "text": "<p>You have the option to block all outgoing calls on your line to help further control your spend. You can do this by calling our customer services department.\n You will always be able to make calls to emergency services (999, 112).  </p>"
+                },
+                {
+                    "header": "Can I use this package without a phone?",
+                    "text": "<p>Yes, you can just our service for the internet, there&rsquo;s no need to plug in a phone.</p>"
+                },
+                {
+                    "header": "Why do you ask for my telephone number?",
+                    "text": "<p>We need it to check the phone line at your address and it helps us estimate the broadband speed you can get. If our checks show there isn&rsquo;t a working phone line at your address, you may need a new one. We can arrange an engineer visit on a date to suit you.</p>"
+                },
+                {
+                    "header": "Why do you charge line rental for broadband?",
+                    "text": "<p>All home broadband requires an active phone line, whether or not you use it for phone services. We  can provide a new line if necessary.</p>"
+                },
+                {
+                    "header": "Can I keep my phone number?",
+                    "text": "<p>Yes, most customers can keep their existing number. But if we find we can&rsquo;t transfer it, we&rsquo;ll let you know.</p>"
+                },
+                {
+                    "header": "What happens if I'm switching from another broadband provider?",
+                    "text": "<p>Switching to TalkTalk is simple. Just choose the broadband plan you want and we do the rest. Your current service will be cancelled as soon as your TalkTalk service starts so there&rsquo;ll be no gap in service, no overlap and you won&rsquo;t be double-charged. Your previous provider will credit you for any unused line rental.</p>"
+                },
+                {
+                    "header": "What is Fibre broadband?",
+                    "text": "<p>Fibre Broadband is delivered via fibre optic cables, for a faster and more reliable connection with download speeds of up to 38Mb or go even faster with our 76Mb Faster Fibre.</p>"
+                },
+                {
+                    "header": "When will the engineer install my new line?",
+                    "text": "<p>You can choose a date for the engineer to visit and install the telephone line when you place your order.</p>"
+                },
+                {
+                    "header": "How long will it take for  Faster Fibre broadband to be up and running?",
+                    "text": "<p>Your service can take up to 10 working days from the date you placed the order before you go live.</p><p>It may take a little bit longer if we need BT to install a new line at your premises.</p>"
+                },
+                {
+                    "header": "How long does Faster Fibre broadband take to install?",
+                    "text": "<p>Normally you won&rsquo;t need an engineer. You&rsquo;ll service will be live 15 minutes after activation of Fibre on your go live date.</p><p>If you need an engineer appointment, allow up to 3 hours while they enable your line for Faster Fibre and 1-1.5 hours within your home. Faster Fibre can go live any time up to midnight on your go live date.</p>"
+                },
+                {
+                    "header": "How fast will  Faster Fibre broadband be?",
+                    "text": "<p>Our Faster Fibre plan gives speeds of 38Mb, and 76Mb with our Fibre Speed Boost. We&rsquo;ll give you the fastest broadband your line can handle, but your speed will be affected by your distance from the telephone cabinet, the connection you&rsquo;re using (wired or Wi-Fi), the performance of your devices and the wiring in your home.</p>"
+                    }]
+                }
+            ]
+        }
+    ]
+}

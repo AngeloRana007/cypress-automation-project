@@ -1,0 +1,530 @@
+[
+    {
+        "name": "TV, Broadband & Calls",
+        "url": "https://www.talktalk.co.uk/shop/",
+        "children": [
+            {
+                "name": "Broadband",
+                "url": "https://www.talktalk.co.uk/shop/broadband",
+                "children": [
+                    {
+                        "name": "Fast Broadband",
+                        "url": "https://www.talktalk.co.uk/shop/broadband"
+                    },
+                    {
+                        "name": "Check broadband availability",
+                        "url": "https://www.talktalk.co.uk/shop/availabilitycheck"
+                    },
+                    {
+                        "name": "Call plans",
+                        "url": "https://www.talktalk.co.uk/shop/callplans"
+                    },
+                    {
+                        "name": "Switching to TalkTalk",
+                        "url": "https://www.talktalk.co.uk/shop/switching-to-talktalk"
+                    },
+                    {
+                        "name": "Super Router",
+                        "url": "https://www.talktalk.co.uk/shop/broadband/super-router"
+                    },
+                    {
+                        "name": "Contract lengths",
+                        "url": "https://www.talktalk.co.uk/shop/contract-length"
+                    }
+                ]
+            },
+            {
+                "name": "Fibre Broadband",
+                "url": "https://www.talktalk.co.uk/shop/broadband/fibre",
+                "children": [
+                    {
+                        "name": "Faster Fibre",
+                        "url": "https://www.talktalk.co.uk/shop/broadband/fibre"
+                    },
+                    {
+                        "name": "Faster Fibre up to 76Mb",
+                        "url": "https://www.talktalk.co.uk/shop/broadband/fibrespeedboost"
+                    },
+                    {
+                        "name": "Check Fibre availability",
+                        "url": "https://www.talktalk.co.uk/shop/availabilitycheck"
+                    },
+                    {
+                        "name": "What is Fibre?",
+                        "url": "https://www.talktalk.co.uk/shop/whyfibre"
+                    },
+                    {
+                        "name": "Call plans",
+                        "url": "https://www.talktalk.co.uk/shop/callplans"
+                    },
+                    {
+                        "name": "UltraFibreOptic in York",
+                        "url": "https://www.talktalk.co.uk/shop/ufo/broadband"
+                    },
+                    {
+                        "name": "Contract lengths",
+                        "url": "https://www.talktalk.co.uk/shop/contract-length"
+                    }
+                ]
+            },
+            {
+                "name": "TalkTalk TV",
+                "url": "https://www.talktalk.co.uk/shop/tv-and-broadband",
+                "children": [
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/tv-and-broadband",
+                        "name": "TV and Fast Broadband"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/tv-and-fibre",
+                        "name": "TV and Faster Fibre"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/tv-and-broadband/kids-bundle",
+                        "name": "Kids Bundle"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/explore-tv",
+                        "name": "Explore TV"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/customise/set-package/fast/tv/lite/tv-customise",
+                        "name": "Create package"
+                    }
+                ]
+            },
+            {
+                "name": "Security",
+                "url": "https://www.talktalk.co.uk/shop/security",
+                "children": [
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/security/homesafe",
+                        "name": "HomeSafe"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/security/supersafe-boost",
+                        "name": "SuperSafe"
+                    },
+                    {
+                        "url": "https://www.talktalkgroup.com/beatthescammers/",
+                        "name": "Beat the scammers"
+                    }
+                ]
+            },
+            {
+                "name": "Business",
+                "url": "https://www.talktalk.co.uk/business?utm_source=talktalk&utm_medium=referral&utm_campaign=tt-2-businessbroadband",
+                "children": [
+                    {
+                        "url": "https://www.talktalk.co.uk/business?utm_source=talktalk&utm_medium=referral&utm_campaign=tt-2-businessbroadband",
+                        "name": "Business Broadband"
+                    },
+                    {
+                        "url": "https://www.talktalkbusiness.co.uk/products/networking/Leased-Line-Internet-Access/?utm_source=talktalk&utm_medium=referral&utm_campaign=ttr-2-ethernet",
+                        "name": "Ethernet"
+                    },
+                    {
+                        "url": "https://www.talktalkbusiness.co.uk/products/networking/?utm_source=talktalk&utm_medium=referral&utm_campaign=ttr-2-networking",
+                        "name": "Networking"
+                    },
+                    {
+                        "url": "https://www.talktalkbusiness.co.uk/products/voice/?utm_source=talktalk&utm_medium=referral&utm_campaign=tt-2-businessbroadband",
+                        "name": "Voice"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/business/product/mobile/?utm_source=talktalk&utm_medium=referral&utm_campaign=tt-2-businessbroadband",
+                        "name": "Mobile"
+                    },
+                    {
+                        "url": "https://www.talktalkbusiness.co.uk/support/?utm_source=talktalk&utm_medium=referral&utm_campaign=tt-2-businessbroadband",
+                        "name": "Support"
+                    }
+                ]
+            },
+            {
+                "name": "Why TalkTalk",
+                "url": "https://www.talktalk.co.uk/shop/whytalktalk",
+                "children": [
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/whytalktalk",
+                        "name": "Why choose us"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/shop/valuematters",
+                        "name": "Bringing you value"
+                    },
+                    {
+                        "url": "https://www.talktalk.co.uk/makingtalktalkbetter",
+                        "name": "Better than ever"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "News & TV Guide",
+        "url": "https://www.talktalk.co.uk/migration/mytalktalk/",
+        "children": [
+            {
+                "name": "Home",
+                "url": "http://www.talktalk.co.uk/"
+            },
+            {
+                "name": "News",
+                "url": "http://www.aol.co.uk/news/",
+                "children": [
+                    {
+                        "name": "World",
+                        "url": "http://www.aol.co.uk/news/world/"
+                    },
+                    {
+                        "name": "Politics",
+                        "url": "http://www.aol.co.uk/news/politics"
+                    }
+                ]
+            },
+            {
+                "name": "Entertainment",
+                "url": "http://www.huffingtonpost.co.uk/?icid=gnavbarttg_rootentertainment&rpc=ttg",
+                "children": [
+                    {
+                        "name": "Celebrity",
+                        "url": "http://www.huffingtonpost.co.uk/news/celebrity/?icid=gnavbarttg_rootcelebrity&rpc=ttg"
+                    },
+                    {
+                        "name": "Comedy",
+                        "url": "http://www.huffingtonpost.co.uk/comedy/?icid=gnavbarttg_rootcomedy&rpc=ttg"
+                    },
+                    {
+                        "name": "TV News",
+                        "url": "http://www.huffingtonpost.co.uk/news/uktv/?icid=gnavbarttg_rootuktv&rpc=ttg"
+                    }
+                ]
+            },
+            {
+                "name": "Living",
+                "url": "http://www.aol.co.uk/living/?icid=gnavbarttg_rootliving&rpc=ttg",
+                "children": [
+                    {
+                        "name": "Food",
+                        "url": "http://www.aol.co.uk/living/food/?icid=gnavbarttg_rootfood&rpc=ttg/"
+                    },
+                    {
+                        "name": "Travel",
+                        "url": "http://travel.aol.co.uk/?icid=gnavbarttg_roottravel&rpc=ttg"
+                    },
+                    {
+                        "name": "Cars",
+                        "url": "http://cars.aol.co.uk/?icid=gnavbarttg_rootcars&rpc=ttg"
+                    },
+                    {
+                        "name": "Health",
+                        "url": "http://www.huffingtonpost.co.uk/news/health/?icid=gnavbarttg_roothealth&rpc=ttg"
+                    }
+                ]
+            },
+            {
+                "name": "Sport",
+                "url": "http://www.aol.co.uk/sport/?icid=gnavbarttg_rootsport&rpc=ttg",
+                "children": [
+                    {
+                        "name": "Cricket",
+                        "url": "http://www.aol.co.uk/sport/cricket/?icid=gnavbarttg_rootcricket&rpc=ttg"
+                    },
+                    {
+                        "name": "F1",
+                        "url": "http://www.aol.co.uk/sport/f1/?icid=gnavbarttg_rootf1&rpc=ttg"
+                    },
+                    {
+                        "name": "Football",
+                        "url": "http://www.aol.co.uk/sport/football/?icid=gnavbarttg_rootfootball&rpc=ttg"
+                    },
+                    {
+                        "name": "Rugby",
+                        "url": "http://www.aol.co.uk/sport/rugby-union/?icid=gnavbarttg_rootrugby_union&rpc=ttg"
+                    },
+                    {
+                        "name": "Other",
+                        "url": "http://www.aol.co.uk/sport/other-sports/?icid=gnavbarttg_rootother_sports&rpc=ttg"
+                    }
+                ]
+            },
+            {
+                "name": "Money",
+                "url": "http://www.talktalk.co.uk/news/money/?utm_source=NTVG&utm_medium=navbar&utm_campaign=moneychannel"
+            },
+            {
+                "name": "NEW! Games",
+                "url": "http://games.aol.co.uk/?icid=gnavbarttg_rootgames&rpc=ttg"
+            },
+            {
+                "name": "Weather",
+                "url": "http://weather.aol.co.uk/?icid=gnavbarttg_rootweather&rpc=ttg"
+            },
+            {
+                "name": "eBay",
+                "url": "http://www.ebay.co.uk/"
+            },
+            {
+                "name": "TalkTalk TV Store",
+                "url": "https://www.talktalktvstore.co.uk/?utm_source=NTVG&utm_medium=Nav%20Bar&utm_campaign=Nav%20Bar"
+            }
+        ]
+    },
+    {
+        "name": "My Account",
+        "url": "https://myaccount.talktalk.co.uk/home/dashboard",
+        "icon": "nav-my-account",
+        "children": [
+            {
+                "name": "Home",
+                "url": "https://myaccount.talktalk.co.uk/home/dashboard",
+                "children": [
+                    {
+                        "name": "Summary",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=summary"
+                    },
+                    {
+                        "name": "TV",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=TV"
+                    },
+                    {
+                        "name": "Broadband",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=bb"
+                    },
+                    {
+                        "name": "Home Phone",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=phone"
+                    },
+                    {
+                        "name": "Mobile",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=mobile"
+                    },
+                    {
+                        "name": "Track Order",
+                        "url": "https://myaccount.talktalk.co.uk/ordertracker/index/ordertracker"
+                    },
+                    {
+                        "name": "Security hub",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/help/securityhub "
+                    }
+                ]
+            },
+            {
+                "name": "Bills & payments",
+                "url": "https://myaccount.talktalk.co.uk/mybill",
+                "children": [
+                    {
+                        "name": "Latest bill",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Mybillsummary/mybillsummary"
+                    },
+                    {
+                        "name": "Transaction history",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/transactionhistory"
+                    },
+                    {
+                        "name": "Previous bills",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Mybillsummary/mybillsummary?bill=previous"
+                    },
+                    {
+                        "name": "Control your bill",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/changeusagelimit/controlyourbill"
+                    },
+                    {
+                        "name": "Itemised usage",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Unbilledcalls/unbilledcalls"
+                    },
+
+                    {
+                        "name": "Save money with Bill Busters",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/billbuster"
+                                        },
+                    {
+                        "name": "Make a card payment",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Onlinecardpayment/oneoffpayment?oop=true"
+                    },
+                    {
+                        "name": "Change payment due date",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/changepaymentduedate"
+                    },
+                    {
+                        "name": "View mobile plan",
+                        "url": "https://myaccount.talktalk.co.uk/home/dashboard?tab=mobile"
+                    },
+                    {
+                        "name": "Manage payment method",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/managepayment"
+                    }
+                ]
+            },
+            {
+                "name": "My services",
+                "url": "https://myaccount.talktalk.co.uk/myservices/myservices/index",
+                "children": [
+                    {
+                        "name": "Manage CallSafe",
+                        "url": "https://www.talktalk.co.uk/my/CallSafe",
+                        "featured" : "NEW!"
+                    },
+                    {
+                        "name": "View HomeSafe settings",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/network/homesafe"
+                    },
+                    {
+                        "name": "Perform a speed check",
+                        "url": "https://myaccount.talktalk.co.uk/speed-checker/"
+                    },
+                    {
+                        "name": "Manage SuperSafe Boost",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/Fsecure"
+                    },
+                    {
+                        "name": "Change broadband password",
+                        "url": "https://myaccount.talktalk.co.uk/accountdetails/Editaccountdetails/getaccountdetails#bbpw"
+                    },
+                    {
+                        "name": "Manage Calling Circle",
+                        "url": "https://myaccount.talktalk.co.uk/callingcircle/callingcircle/viewcallingcircle"
+                    },
+                    {
+                        "name": "Manage speed dial",
+                        "url": "https://myaccount.talktalk.co.uk/callingcircle/speeddial/speeddial"
+                    },
+                    {
+                        "name": "Manage calling features",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/myservices/view"
+                    },
+                    {
+                        "name": "View frequently called numbers",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Frequentnumbers/frequentnumbers"
+                    },
+                    {
+                        "name": "Manage home phone Boosts",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/myservices/view"
+                    },
+                    {
+                        "name": "Analyse your calls",
+                        "url": "https://myaccount.talktalk.co.uk/mybill/Callanalysis/callanalysis"
+                    },
+                    {
+                        "name": "View Boost usage",
+                        "url": "https://myaccount.talktalk.co.uk/packageboosts/boostusage"
+                    },
+                    {
+                        "name": "View/Change TV PIN",
+                        "url": "https://myaccount.talktalk.co.uk/tv/Managetv/youviewpin"
+                    },
+                    {
+                        "name": "Manage TV Boost",
+                        "url": "https://myaccount.talktalk.co.uk/tv/Managetv/managetvsubscriptions"
+                    },
+                    {
+                        "name": "Manage mobile plan",
+                        "url": "https://myaccount.talktalk.co.uk/mobile/managetariff"
+                    },
+                    {
+                        "name": "Transfer a mobile number",
+                        "url": "https://myaccount.talktalk.co.uk/mobile/viewporting"
+                    },
+                    {
+                        "name": "Manage mobile Boosts",
+                        "url": "https://myaccount.talktalk.co.uk/mobile/manageboost"
+                    },
+                    {
+                        "name": "Manage webmail",
+                        "url": "https://myaccount.talktalk.co.uk/accountdetails/Editonlinedetails/getonlinedetails"
+                    }
+                ]
+            },
+            {
+                "name": "Offers & Upgrades",
+                "url": "https://myaccount.talktalk.co.uk/myservices/myservices/extrasfromtalktalk?from=topnav",
+                "children": [
+                    {
+                        "name": "Your Offers & Upgrades",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/myservices/extrasfromtalktalk?from=offersandupgradedropdown"
+                    },
+                    {
+                        "name": "Accessories store",
+                        "url": "https://accessories.talktalk.co.uk/product_list.aspx"
+                    }
+                ]
+            },
+            {
+                "name": "My details",
+                "url": "https://myaccount.talktalk.co.uk/accountdetails/Editaccountdetails/accountdetailslanding",
+                "children": [
+                    {
+                        "name": "Personal details",
+                        "url": "https://myaccount.talktalk.co.uk/accountdetails/Editaccountdetails/getaccountdetails"
+                    },
+                    {
+                        "name": "Login details",
+                        "url": "https://myaccount.talktalk.co.uk/accountdetails/Editonlinedetails/getonlinedetails"
+                    },
+                    {
+                        "name": "My Information, My Choice",
+                        "url": "https://www.talktalk.co.uk/my/accountdetails/myinfo"
+                    },
+                    {
+                        "name": "Move home",
+                        "url": "https://myaccount.talktalk.co.uk/homemover/brochure"
+                    }
+                ]
+            },
+            {
+                "name": "Support",
+                "url": "https://myaccount.talktalk.co.uk/supporttools",
+                "children": [
+
+                    {
+                        "name": "Contact us",
+                        "url": "https://www.talktalk.co.uk/contactus"
+                    },
+                    {
+                        "name": "Ask the community",
+                        "url": "http://community.talktalk.co.uk/"
+                    },
+                    {
+                        "name": "Report a scam/nuisance call",
+                        "url": "http://help2.talktalk.co.uk/scam-phone-calls"
+                    },
+                    {
+                        "name": "Security hub",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/help/securityhub"
+                    }
+                ]
+            },
+            {
+                "name": "TalkTalk apps",
+                "url": "https://myaccount.talktalk.co.uk/myservices/TalkTalkapps",
+                "children": [
+                    {
+                        "name": "My TalkTalk",
+                        "url": "https://www.talktalk.co.uk/mytalktalkapp/"
+                    },
+                    {
+                        "name": "TalkTalk TV Store",
+                        "url": "https://www.talktalktvstore.co.uk/"
+                    },
+                    {
+                        "name": "Tv2Go",
+                        "url": "https://myaccount.talktalk.co.uk/myservices/Tv2goapp"
+                    },
+                    {
+                        "name": "SuperSafe boost",
+                        "url": "https://www.talktalk.co.uk/shop/security/supersafe-boost"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mail",
+        "url": "http://webmail.talktalk.co.uk"
+    },
+    {
+        "name": "Help",
+        "url": "http://help2.talktalk.co.uk"
+    }
+]

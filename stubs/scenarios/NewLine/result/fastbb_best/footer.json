@@ -1,0 +1,67 @@
+
+{
+    "mainlinks": [
+        {
+            "name": "TV, Broadband & Calls",
+            "url": "https://www.talktalk.co.uk/shop?from_footer_nav"
+        },
+        {
+            "name": "News & TV Guide",
+            "url": "https://www.talktalk.co.uk/migration/mytalktalk/"
+        },
+        {
+            "name": "My Account",
+            "url": "https://myaccount.talktalk.co.uk/home/dashboard?from_footer_nav"
+        },
+        {
+            "name": "My Mail",
+            "url": "https://www.talktalk.co.uk/mail/?from_footer_nav"
+        },
+        {
+            "name": "Help",
+            "url": "https://help2.talktalk.co.uk?from_footer_nav"
+        }
+    ],
+    "sublinks": [
+        {
+            "name": "Corporate site",
+            "url": "http://www.talktalkgroup.com/?from_footer_nav"
+        },
+        {
+            "name": "Advertise",
+            "url": "http://www.talktalk.co.uk/advertise/?from_footer_nav"
+        },
+        {
+            "name": "Accessibility",
+            "url": "http://help2.talktalk.co.uk/talktalk-and-accessibility?from_footer_nav"
+        },
+        {
+            "name": "Contact Us",
+            "url": "https://www.talktalk.co.uk/contactus/?from_footer_nav"
+        },
+        {
+            "name": "Code of Practice",
+            "url": "http://www.talktalk.co.uk/legal/code-of-practice/?from_footer_nav"
+        },
+        {
+            "name": "Customer Complaints Code",
+            "url": "http://help2.talktalk.co.uk/my-account-bills/how-do-i-make-complaint?from_footer_nav"
+        },
+        {
+            "name": "Legal",
+            "url": "http://www.talktalk.co.uk/legal/?from_footer_nav"
+        },
+        {
+            "name": "Privacy Policy",
+            "url": "http://www.talktalk.co.uk/legal/privacy-policy/?from_footer_nav"
+        },
+        {
+            "name": "Terms & Conditions",
+            "url": "http://www.talktalk.co.uk/legal/terms/?from_footer_nav"
+        },
+        {
+            "name": "Cookies and our policy",
+            "url": "http://www.talktalk.co.uk/legal/cookie-policy/"
+        }
+    ]
+}

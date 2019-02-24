@@ -1,0 +1,526 @@
+{
+    "id": "faster",
+    "title": "Faster Fibre Broadband",
+    "description": "Fixed low price fibre broadband with speeds up to 38Mb",
+    "subtitle": "UK’s lowest fixed price Fibre",
+    "offerText": "{{setupFee ? '' : 'No set-up fee'}}",
+    "colour": "orange",
+    "icon": "tt_icon-fast-rocket",
+    "icon_colour": "white",
+    "showComparison":"hide",
+    "smallText": "",
+    "images": {
+        "xs": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-mobile-599x218-v3.jpg"
+        },
+        "sm": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-large-mobile-600x332-v1.jpg"
+        },
+        "md": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-tablet-768x430-v1.jpg"
+        },
+        "lg": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-desktop-470x255-1-v2.jpg"
+        }
+    },
+    "side_image": {
+        "text": "Stream, shop, Skype, surf, download & upload all at the same time",
+        "images": {
+            "xs": {
+                "url": "/img/faster/side_image/mktg-1608_220001409_xmas_faster_page_upsell_banner_mobile_559x332.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "sm": {
+                "url": "/img/faster/side_image/mktg-1608_220001409_xmas_faster_page_upsell_banner_mobile_560x332.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "md": {
+                "url": "/img/faster/side_image/mktg-1608_220001409_xmas_faster_page_upsell_banner_tablet_728x430.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "lg": {
+                "url": "/img/faster/side_image/mktg-1608_220001409_xmas_faster_page_upsell_banner_desktop_470x638.jpg",
+                "alt": "Smiley Happy Family"
+            }
+        }
+    },
+    "points": [
+        "Do more online, with more devices, at the same time",
+        "Stream on multiple screens, download and video call",
+        "Unlimited usage with download speeds up to 38Mb",
+        "Price fixed for the entire length of contract, <a href=\"contract-length\">other contract lengths available</a>"
+    ],
+    "showLoginBox": true,
+    "saving": {
+        "amount": 257,
+        "time": "24 months",
+        "competitor": "BT"
+    },
+    "skySportsSaving": {
+        "amount": 863,
+        "time": "18 months",
+        "competitor": "Sky",
+        "bundleName": "with our Sky Sports bundle"
+    },
+    "skyCinemaSaving": {
+        "amount": 557,
+        "time": "18 months",
+        "competitor": "Sky",
+        "bundleName": "with our Sky Cinema bundle"
+    },
+    "skyEntertainmentSaving": {
+        "amount": 227.81,
+        "time": "18 months",
+        "competitor": "BT",
+        "bundleName": "with our Sky Entertainment bundle"
+    },
+    "tvPackages": {
+        "tv": {
+            "title": "TV with Faster Fibre Broadband",
+            "subtitle": null,
+            "description": "Lorem ipsum dolor sit amet TV",
+            "colour": "green",
+            "icon": "tt_icon-tv-lite",
+            "points": [
+                "TalkTalk TV box – pause &amp; rewind live TV",
+                "<show-mo text='Up to 80 Freeview channels'><free-view></free-view></show-mo>",
+                "Add &amp; remove channels, including Sky Sports &amp; Sky Cinema, on a flexible 1 month contract",
+                "Fixed price for your {{ contractLength }} month broadband plan, <a click-event='faster_contract_length' href=\"contract-length\">other contract lengths available</a>",
+                "No usage caps and speeds up to 38Mb"
+            ],
+            "saving": {
+                "amount": 356,
+                "time": "24 months",
+                "competitor": "BT"
+            },
+            "comparison": {
+                "title": "Compare our Faster Fibre & TV plan vs. BT, Sky &amp; Virgin Media",
+                "header": [
+                    "",
+                    ".tt_icon-TalkTalk-logo",
+                    "BT",
+                    "Sky",
+                    "Virgin Media"
+                ],
+                "text": "Prices correct 21/06/17. BT packages come with: 12 month contracts, up to 52Mb speeds, £2.50/month for voicemail and £1.75/month for caller display, weekend calls, unlimited wi-fi, 100GB BT Cloud, BT Sport Lite App, Online player. Sky packages come with: 18 month contracts and £1.25/month for voicemail Virgin Media packages come with: 12 month contracts, £2.25/month for caller display, weekend calls, up to 100Mb speeds. Savings include price of package, caller display and voicemail. Safety Features comparison includes voicemail, caller display, anonymous caller reject and last caller barring.",
+                "body": [
+                    [
+                        "Plan",
+                        "Faster Fibre - up to 38MB + TalkTalk TV",
+                        "Unlimited Infinity 1 – up to 52MB + Entertainment Starter TV",
+                        "Sky Fibre Unlimited – up to 38MB + Original Bundle + Q",
+                        "Player Bundle"
+                    ],
+                    [
+                        "Total cost over 18 months",
+                        "£477.00",
+                        "£841.31",
+                        "£908.45",
+                        "£714.50"
+                    ],
+                    [
+                        "Fixed Price Guarantee for 18 months",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Totally unlimited data usage",
+                        "/",
+                        "/",
+                        "/",
+                        "X"
+                    ],
+                    [
+                        "Free safety and security features",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Number of TV channels included",
+                        "Up to 80",
+                        "Up to 80",
+                        "270",
+                        "60+"
+                    ],
+                    [
+                        "Same deals for new & existing customers",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Access to Netflix",
+                        "/",
+                        "/",
+                        "X",
+                        "/"
+                    ],
+                    [
+                        "Access to BT Sports",
+                        "/",
+                        "/",
+                        "/",
+                        "/"
+                    ],
+                    [
+                        "Access to Sky Sports",
+                        "/",
+                        "X",
+                        "/",
+                        "/"
+                    ]
+                ],
+                "footer": [
+                    "Savings with TalkTalk over 18 months",
+                    "",
+                    "£364.31",
+                    "£431.45",
+                    "£237.50"
+                ]
+            }
+        },
+        "plusTV": {
+            "title": "TV Plus with Faster Fibre Broadband",
+            "subtitle": null,
+            "description": "Lorem ipsum dolor sit amet plusTV",
+            "colour": "green",
+            "icon": "tt_icon-tv-r-plus",
+            "points": [
+                "TalkTalk TV Plus box – pause, rewind &amp; record up to 180 hours of TV",
+                "Add &amp; remove channels, including Sky Sports &amp; Sky Cinema, on a flexible 1 month contract",
+                "Fixed price for your {{ contractLength }} month broadband plan, <a click-event=\"tv_contract_length\" href=\"contract-length\">other contract lengths available</a>",
+                "<show-mo click-event='tv_see_channels' text='Up to 80 Freeview channels & 6 top entertainment channels from Sky'><free-view plus=true></free-view></show-mo>",
+                "No usage caps and speeds up to 38Mb"
+            ],
+            "saving": {
+                "amount": 188,
+                "time": "24 months",
+                "competitor": "BT"
+            },
+            "comparison": {
+                "title": "Compare our Faster Fibre & TV Plus Plan vs. BT, Sky & Virgin Media",
+                "header": [
+                    "",
+                    ".tt_icon-TalkTalk-logo",
+                    "BT",
+                    "Sky",
+                    "Virgin Media"
+                ],
+                "text": "Virgin Media package comes with up to 50Mb speeds, 12 month contract & weekend calls. BT package comes with up to 52Mb speeds, 18-month contract, weekend calls, unlimited wi-fi & 200GB BT Cloud. Sky package comes with 18 month contract for TV and Fibre. Prices correct at 21/12/17.",
+                "body": [
+                    [
+                      "Plan",
+                      "Faster Fibre + TV Plus",
+                      "Unlimited Infinity 1 + Starter TV",
+                      "Sky Fibre Unlimited + Original Bundle & Sky Q",
+                      "Player Bundle"
+                    ],
+                    [
+                        "Total cost over 24 months",
+                        "£793.00",
+                        "£981.75",
+                        "£1215.89",
+                        "£956.00"
+                    ],
+                    [
+                        "Fixed price guarantee for 24 months",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Totally unlimited data usage",
+                        "/",
+                        "/",
+                        "/",
+                        "X"
+                    ],
+                    [
+                        "Free safety & security features",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Number of TV channels included",
+                        "Up to 86",
+                        "Up to 80",
+                        "270",
+                        "60+"
+                    ],
+                    [
+                        "Same deals for new & existing customers",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Access to Netflix",
+                        "/",
+                        "/",
+                        "X",
+                        "/"
+                    ],
+                    [
+                        "Access to BT Sports",
+                        "/",
+                        "/",
+                        "/",
+                        "/"
+                    ],
+                    [
+                        "Access to Sky Sports",
+                        "/",
+                        "X",
+                        "/",
+                        "/"
+                    ]
+                ],
+                "footer": [
+                    "Savings with TalkTalk over 24 months",
+                    "",
+                    "£188.75",
+                    "£422.89",
+                    "£163.00"
+                ]
+            },
+            "channels": {
+                "title": "Enjoy 30+ premium channels with Entertainment Boost",
+                "logos": [
+                    {
+                        "alt": "Sky 1",
+                        "sprite": "tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt": "Sky 2",
+                        "sprite": "tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt": "Sky Living",
+                        "sprite": "tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt": "Real Lives",
+                        "sprite": "tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt": "Sky Arts",
+                        "sprite": "tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt": "Sky Sports News HQ",
+                        "sprite": "tt_sprite-default-sky-sports-news"
+                    },
+                    {
+                        "alt": "Gold",
+                        "sprite": "tt_sprite-default-gold-small"
+                    },
+                    {
+                        "alt": "Watch",
+                        "sprite": "tt_sprite-default-watch-small"
+                    },
+                    {
+                        "alt": "Alibi",
+                        "sprite": "tt_sprite-default-alibi-small"
+                    },
+                    {
+                        "alt": "Eden",
+                        "sprite": "tt_sprite-default-eden"
+                    },
+                    {
+                        "alt": "Good Food",
+                        "sprite": "tt_sprite-default-good-food-small"
+                    },
+                    {
+                        "alt": "SyFy",
+                        "sprite": "tt_sprite-default-syfy-small"
+                    },
+                    {
+                        "alt": "Universal channel",
+                        "sprite": "tt_sprite-default-universal-small"
+                    },
+                    {
+                        "alt": "Fox",
+                        "sprite": "tt_sprite-default-fox-small"
+                    },
+                    {
+                        "alt": "E",
+                        "sprite": "tt_sprite-default-e-small"
+                    },
+                    {
+                        "alt": "Comedy Central",
+                        "sprite": "tt_sprite-default-comedy-central-small"
+                    },
+                    {
+                        "alt": "Comedy Central Extra",
+                        "sprite": "tt_sprite-default-comedy-central-extra"
+                    },
+                    {
+                        "alt": "MTV",
+                        "sprite": "tt_sprite-default-mtv-small"
+                    },
+                    {
+                        "alt": "National Geographic Channel",
+                        "sprite": "tt_sprite-default-nat-geo-small"
+                    },
+                    {
+                        "alt": "National Geographic Wild",
+                        "sprite": "tt_sprite-default-nat-geo-wild"
+                    },
+                    {
+                        "alt": "History",
+                        "sprite": "tt_sprite-default-history-small"
+                    },
+                    {
+                        "alt": "Lifetime",
+                        "sprite": "tt_sprite-default-lifetime"
+                    },
+                    {
+                        "alt": "MTV Hits",
+                        "sprite": "tt_sprite-default-mtv-hits-small"
+                    },
+                    {
+                        "alt": "MTV Rocks",
+                        "sprite": "tt_sprite-default-mtv-rocks"
+                    }
+                ]
+            }
+        }
+    },
+    "comparison": {
+        "title": "Compare our Faster Fibre plan vs. BT, Sky &amp; Virgin Media",
+        "header": [
+            "",
+            ".tt_icon-TalkTalk-logo",
+            "BT",
+            "Sky",
+            "Virgin Media"
+        ],
+        "text": "Faster Fibre - Save £257.75 vs BT. 24 months cost comparison based of TalkTalk Faster Fibre (£25/month for 24 months) compared to standard online price of BT Unlimited Infinity 1 (up to 52Mb) with Weekend Calls at £31.99/month for 18 months, £41.99/month thereafter + £100 BT reward card, 18 months min. term, £29.99 hub delivery and connection fee (incl. unlimited Wi-Fi, 200GB BT Cloud & online player). Prices correct at 07/12/17.",
+        "body": [
+            [
+                "Plan",
+                "Faster Fibre - up to 38MB",
+                "Unlimited Infinity 1 - up to 52MB",
+                "Sky Fibre Unlimited - up to 38MB",
+                "Vivid 50 BB and Phone"
+            ],
+            [
+                "Total cost over 24 months",
+                "£600.00",
+                "£857.75",
+                "£713.89",
+                "£848.00"
+            ],
+            [
+                "Fixed Price Guaranteed for 24 months",
+                "/",
+                "X",
+                "X",
+                "X"
+            ],
+            [
+                "Totally unlimited data usage",
+                "/",
+                "/",
+                "/",
+                "X"
+            ],
+            [
+                "Same deals for new & existing customers",
+                "/",
+                "X",
+                "X",
+                "X"
+            ]
+        ],
+        "footer": [
+            "Savings with TalkTalk over 24 months",
+            "",
+            "£257.75",
+            "£113.89",
+            "£248.00"
+        ]
+    },
+    "skyComparison": {
+        "title": "See how our Faster Fibre with TV package compares to BT, Sky & Virgin Media",
+        "header": [
+            "",
+            ".tt_icon-TalkTalk-logo",
+            "Sky",
+            "Virgin",
+            "BT"
+        ],
+        "text": "Virgin Media package comes with up to 50Mb speeds, 12 month contract & weekend calls. BT package comes with up to 52Mb speeds, 18-month contract, weekend calls, unlimited wi-fi & 200GB BT Cloud. Sky package comes with 18 month contract for TV and Fibre. Prices correct at 21/12/17.",
+        "body": [
+            [
+                "Package",
+                "Faster Fibre + TV",
+                "Sky Fibre Unlimited + Original Bundle & Sky Q",
+                "Player Bundle",
+                "Unlimited Infinity 1 + Starter TV"
+            ],
+            [
+                "Fixed price for 24 months",
+                "/",
+                "/",
+                "X",
+                "X"
+            ],
+            [
+                "Access to Netflix",
+                "/",
+                "X",
+                "/",
+                "/"
+            ],
+            [
+                "Totally unlimited data usage",
+                "/",
+                "/",
+                "X",
+                "/"
+            ],
+            [
+                "Monthly package cost",
+                "£25 for 24 months",
+                "£45/month for 18 months, £60.99 thereafter",
+                "£30 for 12 months, £48 thereafter",
+                "£35.49 for 18 months, £45.49 thereafter + £100 BT reward"
+            ],
+            [
+                "One off set up costs (inc. router & delivery charge)",
+                "£25.00",
+                "£39.95",
+                "£20.00",
+                "£69.99"
+            ],
+            [
+                "Current average monthly total (inc. set up cost & line rental)",
+                "£26.04",
+                "£50.66",
+                "£39.83",
+                "£40.91"
+            ]
+        ],
+        "footer": [
+            "24 month saving with TalkTalk",
+            "",
+            "£590.89",
+            "£331.00",
+            "£356.75"
+        ]
+    }
+}

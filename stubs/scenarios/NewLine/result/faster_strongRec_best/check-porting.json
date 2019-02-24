@@ -1,0 +1,14 @@
+{
+	"status": 1,
+	"message": [
+		"success"
+	],
+	"messageCode": [
+		"success"
+	],
+	"data": {
+		"isLinePendingCeaseInAc": false,
+		"isEligibleForPorting": false,
+		"isExistingCustomer": false
+	}
+}
