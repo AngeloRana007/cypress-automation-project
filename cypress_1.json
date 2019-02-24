@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://local.gen7.talkdev.co.uk:9000/",
+  "fixturesFolder": "./../../src/experiments/cypress/stubs/scenarios/",
+  "integrationFolder": "./../../src/experiments/cypress/tests",
+  "supportFile": "./../../src/experiments/cypress/support/index.js",
+  "pluginsFile": "./../../src/experiments/cypress/plugins/",
+  "videoRecording": false
+}
