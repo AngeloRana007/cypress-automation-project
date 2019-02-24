@@ -43,7 +43,8 @@ Not as useful if you’re using traditional server side HTML rendering
 
 
 
-# 4. Test Approach: 3 layers testing: 1. real APIs test automation, 2. E2E/feature tests with stubbed APIs, 3. Smoke tests to run in CI/Chrono Jobs
+# 4. Test Approach
+Three layers testing: 1. real APIs test automation, 2. E2E/feature tests with stubbed APIs, 3. Smoke tests to run in CI/Chrono Jobs
 
 - Test Cases/ Scenarios have been created based on routing backend calls and by fetching stubbed data through FE: (i.e. via cy.serve(), cy.routing() cypress functions)
 - New Cypress commands have been created in order to load stubbed APIs based on different test suite (i.e. Newline, Porting, Switching...) and test cases (i.e. availability check page, results page ...)
