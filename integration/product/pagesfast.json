@@ -1,0 +1,406 @@
+{
+    "$meta": {
+        "title": "TalkTalk | Broadband Deals and Offers",
+        "description": "Great value, fixed price broadband from TalkTalk. Unlimited usage and a fixed monthly price for your contract length.",
+        "image": "/img/common/meta/opengraphX2.jpg"
+    },
+    "loginUrl": "https://myaccount.talktalk.co.uk/selectplan/yourplan?packageCode=fast",
+    "products": {
+        "preHeader": "Our best value broadband and TV plan",
+        "product1":{
+            "title":"Fast Broadband + TV Plus Box + TV Select",
+            "offerText": "{{setupFee ? '' : 'No set-up fee'}}",
+            "skyBundleName":"tvSelect",
+            "productType": "fastPlusTv",
+            "tvBoxType":"plus",
+            "price":"<span class=\"pop fg--purple\">{{price | gbp}}</span> a month <br> Includes line rental, {{oneOff}} applies<p><a ng-click=\"$ctrl.showModal=true\">View plan details</a></p><modal backdrop-close=\"true\" close-button=\"true\" is-visible=\"$ctrl.showModal\"><view-plan-details-modal data=\"$ctrl.planDetailsModal\" product=\"$ctrl.product\"></view-plan-details-modal></modal><p>Sky Sports & Sky Cinema available to add to this plan</p>",
+            "planDetailsModal":{
+                "title":"Fast Broadband + TV Plus Box + TV Select for {{price | gbp}}",
+                "subHeader": "There's something for everyone with UK channels showing the best in comedy, drama and factual entertainment",
+                "sections": [
+                    {
+                        "icon": {
+                            "sprite": "tt_icon-cloud",
+                            "colour": "purple",
+                            "size": "xl"
+                        },
+                        "title": "Fast Broadband",
+                        "points": [
+                            "Browse social media, shop, chat or stream music",
+                            "Unlimited usage with download speeds up to 17Mb",
+                            "Price fixed for the entire length of contract"
+                        ]
+                    },
+                    {
+                        "icon": {
+                            "sprite": "tt_icon-tv-lite",
+                            "colour": "purple",
+                            "size": "xl"
+                        },
+                        "title": "TalkTalk TV Plus Box",
+                        "points": [
+                            "Pause, rewind & record up to 180 hours of live TV",
+                            "7 day catch-up",
+                            "80+ Freeview channels, 15 in HD",
+                            "Comes with 30 extra entertainment channels",
+                            "Add & remove channels one month at a time"
+                        ]
+                    },
+                    {
+                        "icon": {
+                            "sprite": "tt_icon-starter-circle",
+                            "colour": "purple",
+                            "size": "md"
+                        },
+                        "title": "TV Select",
+                        "points": [
+                            "13 of the nation's favourite channels, including 6 Sky channels and more",
+                            "Over 200 hours of catch-up On Demand",
+                            "Watch all your favourites from Fox to MTV",
+                            "Flexible TV Boosts you can turn on and off a month at a time"
+                        ]
+                    }
+                ],
+                "viewChannelsModal":{
+                         "price":"",
+                    "channels": [
+                        {
+                            "alt": "Sky One",
+                            "sprite": "tt_sprite-default-sky-one-rebrand"
+                        },
+                        {
+                            "alt": "Sky Two",
+                            "sprite": "tt_sprite-default-sky-two-rebrand"
+                        },
+                        {
+                            "alt": "Sky Living",
+                            "sprite": "tt_sprite-default-sky-living-rebrand"
+                        },
+                        {
+                            "alt": "Sky Arts",
+                            "sprite": "tt_sprite-default-sky-arts-rebrand"
+                        },
+                        {
+                            "alt": "Sky Sports News HQ",
+                            "sprite": "tt_sprite-default-sky-sports-news"
+                        },
+                        {
+                            "alt": "Real Lives",
+                            "sprite": "tt_sprite-default-real-lives"
+                        },
+                        {
+                            "alt": "Fox",
+                            "sprite": "tt_sprite-default-fox-small"
+                        },
+                        {
+                            "alt": "National Geographic",
+                            "sprite": "tt_sprite-default-nat-geo-small"
+                        },
+                        {
+                            "alt": "Comedy Central",
+                            "sprite": "tt_sprite-default-comedy-central-small"
+                        },
+                        {
+                            "alt": "MTV",
+                            "sprite": "tt_sprite-default-mtv-small"
+                        },
+                        {
+                            "alt": "Gold",
+                            "sprite": "tt_sprite-default-gold-small"
+                        },
+                        {
+                            "alt": "History",
+                            "sprite": "tt_sprite-default-history-small"
+                        },
+                        {
+                            "alt": "Crime and Investigation",
+                            "sprite": "tt_sprite-default-crime-investigation-small"
+                        }
+                    ]
+                }
+            },
+            "features": "<p><span class=\"col-lg-12 col-md-12 col-xs-12\">Includes 13 of the nation's favourite channels</span><span class=\"col-lg-12 col-md-12 col-xs-12\"><modal backdrop-close=\"true\" close-button=\"true\" is-visible=\"$ctrl.showChannelsModal\"><view-channels-modal data=\"$ctrl.viewChannelsModal\" product=\"$ctrl.product\"></view-channels-modal></modal></span></p><p><span class=\"col-lg-4 col-md-4 col-sm-4 col-xs-12 spacer--top--10\"><layered-icon icons=\"['tt_icon-record-tv-red-circle red', 'tt_icon-record-tv-grey-circle light-grey', 'tt_icon-record-tv-r light-grey']\"></layered-icon><span class=\"record-label\">Record</span></span></p><p><span class=\"col-lg-4 col-md-4 col-sm-4 col-xs-12 spacer--top--10\"><icon char=\"tt_icon-pause-tv\" colour=\"dark-grey\" size=\"sm\"></icon><span>Pause</span></span><span class=\"col-lg-4 col-md-4 col-sm-4 col-xs-12 spacer--bottom--10 spacer--top--10\"><icon char=\"tt_icon-rewind-tv\" colour=\"dark-grey\" size=\"sm\"></icon><span>Rewind</span></span></p>",
+            "viewChannelsModal":{
+                "title":"6 top entertainment channels from Sky",
+                "price":"",
+                "channels":[
+                    {
+                        "alt":"Sky 1",
+                        "sprite":"tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt":"Sky 2",
+                        "sprite":"tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt":"Sky Living",
+                        "sprite":"tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt":"Real Lives",
+                        "sprite":"tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt":"Sky Arts",
+                        "sprite":"tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt":"Sky Sports News HQ",
+                        "sprite":"tt_sprite-default-sky-sports-news"
+                    }
+                ]
+            },
+            "customiseText":"Get started",
+            "images":{
+                "xs": {
+                    "url": "/img/product-cards/post-xmas/flash/mktg-1682-220001493-tv_product_module_image_Mobile_354x195.jpg",
+                    "alt": "Flash TV show"
+                },
+                "sm": {
+                    "url": "/img/product-cards/post-xmas/flash/mktg-1682-220001493-tv_product_module_image_Large_Mobile_470x195.jpg",
+                    "alt": "Flash TV show"
+                },
+                "md": {
+                    "url": "/img/product-cards/post-xmas/flash/mktg-1682-220001493-tv_product_module_image_Tablet_560x369.jpg",
+                    "alt": "Flash TV show"
+                },
+                "lg": {
+                    "url": "/img/product-cards/post-xmas/flash/mktg-1682-220001493-tv_product_module_image_desktop_559x370.jpg",
+                    "alt": "Flash TV show"
+                }
+            },
+            "packageIcons":[
+                {
+                    "sprite":"tt_icon-cloud",
+                    "colour":"purple",
+                    "size":"lg"
+                },
+                {
+                    "sprite":"tt_icon-plus",
+                    "colour":"dark-grey",
+                    "size":"xs"
+                },
+                {
+                    "sprite":"tt_icon-tv-plus",
+                    "colour":"purple",
+                    "size":"lg"
+                },
+                {
+                    "sprite":"tt_icon-plus",
+                    "colour":"dark-grey",
+                    "size":"xs"
+                },
+                {
+                    "sprite":"tt_icon-starter-circle",
+                    "colour":"purple",
+                    "size":"sm"
+                }
+            ]
+        }
+    },
+    "promo": {
+        "blocks": [
+            "Totally unlimited Fast Broadband",
+            "",
+            "Get Started"
+        ],
+        "images": {
+            "lg": {
+                "url": "/img/fast/banner/mktg-1507-220001236-Fast-Page-Header-banner-desktop-1900x350.jpg",
+                "alt": "No Price rise guaranteed"
+            },
+            "md": {
+                "url": "/img/fast/banner/mktg-1507-220001236-Fast-Page-Header-banner-tablet-1024x350.jpg",
+                "alt": "No Price rise guaranteed"
+            },
+            "sm": {
+                "url": "/img/fast/banner/mktg-1507-220001236-Fast-Page-Header-banner-large-mobile-560x300.jpg",
+                "alt": "No Price rise guaranteed 1"
+            },
+            "xs": {
+                "url": "/img/fast/banner/mktg-1507-220001236-Fast-Page-Header-banner-mobile-599x300.jpg",
+                "alt": "No Price rise guaranteed 2"
+            }
+        }
+    },
+    "promoCountDown": null,
+    "introduction": {
+        "header": "Totally unlimited broadband with no price rises guaranteed",
+        "text": "<p>Our Fixed Low Price Fast Broadband is now only {{price | gbp}} a month and has unlimited usage meaning you can use as much internet as you want, on as many devices as you want. Unlike other providers who regularly raise prices mid-contract, we guarantee you will have no price rises for your whole contract length.</p>"
+    },
+    "standard": {
+        "title": "All Fixed Price Plan customers enjoy:",
+        "points": [
+            {
+                "char": "tt_icon-unlimited-circle-fill",
+                "text": "Totally unlimited internet usage",
+                "modal": {
+                    "modalHeader": "Totally unlimited internet usage",
+                    "modalText": "All our packages include unlimited broadband as standard. This means, unlike some other providers, there are no usage caps, so you can use the internet as much as you want, on as many devices as you want."
+                }
+            },
+            {
+                "char": "tt_icon-broadband-circle-fill",
+                "text": "Powerful Super Router",
+                "modal": {
+                    "modalHeader": "Powerful Super Router",
+                    "modalText": "When you sign up to TalkTalk, you’ll receive our latest super router for free. With the latest Wi-Fi technology, the Super Router delivers the “best performance in class” and extends coverage in your home."
+                }
+            },
+            {
+                "char": "tt_icon-homephone-solid-circle-fill",
+                "text": "Inclusive call privacy features",
+                "modal": {
+                    "modalHeader": "Inclusive call privacy features",
+                    "modalText": "Our plans include a range of free call privacy features. These include caller display, anonymous caller reject and last caller barring, as well as voicemail and are all built into your package as standard."
+                }
+            },
+            {
+                "char": "tt_icon-secure-circle-fill",
+                "text": "Security features",
+                "modal": {
+                    "modalHeader": "Security features",
+                    "modalText": "Our plans include a range of free security features. CallSafe stops nuisance and scam callers getting through on your home phone. HomeSafe lets you control what your family has access to and when. Our SuperSafe boost, powered by F-Secure, helps to protect you from viruses, phishing attempts and banking fraud."
+                }
+            },
+            {
+                "char": "tt_icon-tick-circle-fill",
+                "text": "Fixed price for contract length",
+                "modal": {
+                    "modalHeader": "Fixed price for your whole contract",
+                    "modalText": "Unlike the other major providers, we’ll 100% guarantee your broadband price will stay the same throughout your whole contract so you can stay in control of your spending each month."
+                }
+            },
+            {
+                "char": "tt_icon-solidtv-circle-fill",
+                "text": "Access to TalkTalk TV Store",
+                "modal": {
+                    "modalHeader": "Access to TalkTalk TV Store",
+                    "modalText": "Explore a world of entertainment, from blockbuster movies to hit TV shows. Buy or rent what you to want watch. Stream movies and TV shows online on a range of devices or download and watch on the move. Use your TalkTalk My Account to log in to the TalkTalk TV Store and start watching."
+                }
+            }
+        ]
+    },
+    "upgradeBanner": {
+        "header": "Go faster online with Fibre Broadband",
+        "body": "Our Faster Fibre Broadband plan is 4x faster than standard broadband – perfect for homes that connect lots of devices to the internet at once.",
+        "state": "product-faster"
+    },
+    "extras": {
+        "title": "Add and remove extras",
+        "icon": "tt_icon-extras",
+        "points": [
+            "Unlimited UK mobile & landline calls",
+            "Flexible international call plans",
+            "Online security across 8 devices",
+            "Boost your Fibre speed up to 76Mb",
+            "Free CallSafe to stop unwanted calls"
+        ]
+    },
+    "flexiblePlan": {
+        "title": "Contract lengths to suit you",
+        "icon": "tt_icon-flexibleplans",
+        "cta": {
+            "text": "Find out more",
+            "url": "contract-length"
+        },
+        "body": "Choose between our 12, 18 and 24 month contracts. We guarantee your broadband price stays the same for the length of your contract."
+    },
+    "compareProviders": {
+        "title": "Compare TalkTalk TV <br/> with other providers",
+        "logos": [
+            {
+                "alt": "Comedy Central",
+                "sprite": "tt_sprite-default-comedy-central-small"
+            },
+            {
+                "alt": "National Geographic Channel",
+                "sprite": "tt_sprite-default-nat-geo-small"
+            },
+            {
+                "alt": "Nice Jr",
+                "sprite": "tt_sprite-default-nick-jr-small"
+            },
+            {
+                "alt": "BBC iPlayer",
+                "sprite": "tt_sprite-default-bbc-iplayer"
+            },
+            {
+                "alt": "Sky Living",
+                "sprite": "tt_sprite-default-sky-living-rebrand"
+            },
+            {
+                "alt": "Sky Sports",
+                "sprite": "tt_sprite-default-sky-sports-product"
+            }
+        ]
+    },
+    "tvComparison": {
+        "title": "Compare TalkTalk TV vs. BT, Sky & Virgin",
+        "header": [
+            "",
+            ".tt_icon-TalkTalk-logo",
+            "BT",
+            "Sky",
+            "Virgin Media"
+        ],
+        "body": [
+            [
+                "Netflix",
+                "/",
+                "/",
+                "X",
+                "/"
+            ],
+            [
+                "Sky Entertainment",
+                "/",
+                "X",
+                "/",
+                "/"
+            ],
+            [
+                "Sky Cinema",
+                "/",
+                "/",
+                "/",
+                "/"
+            ],
+            [
+                "6 Sky Sports Channels",
+                "/",
+                "X",
+                "/",
+                "/"
+            ],
+            [
+                "BT Sport",
+                "/",
+                "/",
+                "/",
+                "/"
+            ],
+            [
+                "Free to air catch up players",
+                "/",
+                "/",
+                "/",
+                "/"
+            ],
+            [
+                "Latest Hollywood movies to rent & buy",
+                "/",
+                "/",
+                "/",
+                "/"
+            ],
+            [
+                "Major Kids Channels",
+                "/",
+                "/",
+                "/",
+                "/"
+            ]
+        ]
+    }
+}

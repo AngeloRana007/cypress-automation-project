@@ -1,0 +1,18 @@
+{
+	"status": 1,
+	"message": [
+		"success"
+	],
+	"messageCode": [
+		"success"
+	],
+	"data": {
+		"lastStep": "packageResults",
+		"selectedOptions": {
+			"currentCp": null,
+			"isMigrateLineAllowed": null,
+			"postCode": "FY5 2PJ",
+			"newNumberRequested": 0
+		}
+	}
+}

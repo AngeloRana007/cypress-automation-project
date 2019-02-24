@@ -1,0 +1,56 @@
+{
+    "default": {
+        "description": "Default - all default views. Recommended plan."
+    },
+    "workingLine": {
+        "description": "Postcode > Working Line. Customise 1."
+    },
+    "newLine": {
+        "description": "get-address: new line. Customise 2."
+    },
+    "withPersonal": {
+        "description": "getting back the already filled personal details"
+    },
+    "loggedIn": {
+        "description": "Logged in legacy"
+    },
+    "loggedInAip": {
+        "description": "Logged in AIP"
+    },
+    "loggedInTv": {
+        "description": "Logged in - tv"
+    },
+    "loggedInTvNotAvailable": {
+        "description": "Logged in - TV not available"
+    },
+    "loggedInRecontract": {
+        "description": "Logged in - recontract"
+    },
+    "upfrontpayment": {
+        "description": "Upfront payment stuff"
+    },
+    "uswitch": {
+        "description": "Different contractLength on the home page"
+    },
+    "promoCountdown": {
+        "description": "product json with promoCountdown"
+    },
+    "promoRunning": {
+        "description": "product json with promotionEndDate far in future"
+    },
+    "maintenance": {
+        "description": "Sales holding page"
+    },
+    "ufo": {
+        "description": "UFO products"
+    },
+    "ufoUnhappyPath": {
+      "description": "No but soon scenario"
+    },
+    "gfastHappyPath": {
+        "description": "Gfast happy path"
+    },
+    "gfastUnhappyPath": {
+        "description": "Gfast unhappy path"
+    }
+}

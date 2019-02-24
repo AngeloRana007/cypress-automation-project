@@ -1,0 +1,9 @@
+{
+  "status":1,
+  "message":["success"],
+  "messageCode":["success"],
+  "data":
+  {
+    "lastStep":"availabilityCheck"
+    }
+  }
