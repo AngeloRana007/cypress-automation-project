@@ -1,0 +1,86 @@
+{
+    "data": {
+        "cli": "02011201704",
+        "connectionFee": "FREE",
+        "downloadSpeed50th": "17.0",
+        "downloadSpeedLowerRange": "10",
+        "downloadSpeedUpperRange": "20",
+        "estimatedGoLiveDate": "2018-02-14",
+        "isAppointmentRequired": false,
+        "isExistingCustomer": false,
+        "isNewLineType": false,
+        "isRouterRequired": true,
+        "isUfoOverride": null,
+        "isVoucherEligible": false,
+        "lineInfoMessageCode": "existing_line",
+        "minimumGuaranteedSpeed": "7.8",
+        "mpf50percentSpeed": "17.0",
+        "onlineOrderId": "8506451",
+        "tvType": "TV STORE",
+        "uploadSpeed": "0",
+        "uploadSpeedLowerRange": "0",
+        "upsellPackageDetails": {
+            "nlfaster": {
+                "contract": [
+                    {
+                        "contractLength": 24,
+                        "hasPromo": false,
+                        "isBestOffer": false,
+                        "monthlyChargeWithPromo": 33.5,
+                        "promoCode": "",
+                        "promotionLength": 24,
+                        "propositionId": 30132,
+                        "selectedStatus": false
+                    },
+                    {
+                        "contractLength": 18,
+                        "hasPromo": true,
+                        "isBestOffer": true,
+                        "monthlyChargeWithPromo": 25,
+                        "promoCode": "&pound;8.5off",
+                        "promotionLength": 18,
+                        "propositionId": 30239,
+                        "selectedStatus": true
+                    },
+                    {
+                        "contractLength": 12,
+                        "hasPromo": false,
+                        "isBestOffer": false,
+                        "monthlyChargeWithPromo": 33.5,
+                        "promoCode": "",
+                        "promotionLength": 12,
+                        "propositionId": 30130,
+                        "selectedStatus": false
+                    }
+                ],
+                "downloadSpeed50th": "39.5",
+                "downloadSpeedLowerRange": "39",
+                "downloadSpeedUpperRange": "40",
+                "fibreLargeBoostSpeed": {
+                    "downloadSpeed50th": "79.5",
+                    "downloadSpeedLowerRange": "79",
+                    "downloadSpeedUpperRange": "80",
+                    "minimumGuaranteedSpeed": "74",
+                    "uploadSpeed": "20",
+                    "uploadSpeedLowerRange": "19"
+                },
+                "minimumGuaranteedSpeed": "35",
+                "monthlyCharge": 33.5,
+                "packageCode": "nlfaster",
+                "packageId": 292,
+                "packageName": "Faster Fibre",
+                "uploadSpeed": "10",
+                "uploadSpeedLowerRange": "10"
+            }
+        },
+        "voucherEndDate": 1475017199000,
+        "voucherPrice": 0
+    },
+    "message": [
+        "success"
+    ],
+    "messageCode": [
+        "package_available"
+    ],
+    "status": 1
+}
