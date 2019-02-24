@@ -1,0 +1,1014 @@
+{
+    "id": "fast",
+    "title": "Fast Broadband",
+    "subtitle": "UK's lowest fixed price broadband",
+    "description": "Great value, fixed price broadband with speeds up to 17Mb.",
+    "colour": "blue",
+    "icon": "tt_icon-cloud",
+    "icon_colour": "white",
+    "showComparison":"hide",
+    "images": {
+        "xs": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-mobile-599x218-v3.jpg"
+        },
+        "sm": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-large-mobile-600x332-v1.jpg"
+        },
+        "md": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-tablet-768x430-v1.jpg"
+        },
+        "lg": {
+            "alt": "Jamestown",
+            "url": "/img/fast/colour-block/MKTG-1390-May-tv-supporting-image-desktop-470x255-1-v2.jpg"
+        }
+    },
+    "side_image": {
+        "text": "Totally unlimited broadband with no usage caps",
+        "images": {
+            "xs": {
+                "url": "/img/fast/side_image/mktg-1608_220001409_xmas_fast_page_upsell_banner_mobile_559x332.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "sm": {
+                "url": "/img/fast/side_image/mktg-1608_220001409_xmas_fast_page_upsell_banner_mobile_560x332.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "md": {
+                "url": "/img/fast/side_image/mktg-1608_220001409_xmas_fast_page_upsell_banner_tablet_728x430.jpg",
+                "alt": "Smiley Happy Family"
+            },
+            "lg": {
+                "url": "/img/fast/side_image/mktg-1608_220001409_xmas_fast_page_upsell_banner_desktop_470x638.jpg",
+                "alt": "Smiley Happy Family"
+            }
+        }
+    },
+    "promoCountDown": "<strong>Our Faster Fibre Flash Sale ends soon – don't miss out!</strong>",
+    "points": [
+        "Ideal for a couple of devices being online",
+        "Browse social media, shop, chat or stream music",
+        "Unlimited usage with download speeds up to 17Mb",
+        "Price fixed for 18 months contract, other contract lengths available"
+    ],
+    "showLoginBox": true,
+    "showContractLengthBox": true,
+    "saving": {
+        "amount": 220,
+        "time": "24 months",
+        "competitor": "BT"
+    },
+    "skySportsSaving": {
+        "amount": 903,
+        "time": "18 months",
+        "competitor": "Sky",
+        "bundleName": "with our Sky Sports bundle"
+    },
+    "skyCinemaSaving": {
+        "amount": 645,
+        "time": "18 months",
+        "competitor": "Sky",
+        "bundleName": "with our Sky Cinema bundle"
+    },
+    "skyEntertainmentSaving": {
+        "amount": 241.71,
+        "time": "18 months",
+        "competitor": "BT",
+        "bundleName": "with our Sky Entertainment bundle"
+    },
+    "offerText": "{{setupFee ? '' : 'No set-up fee'}}",
+    "tvPackages": {
+        "tv": {
+            "title": "TV with Fast Broadband",
+            "subtitle": "",
+            "description": "Lorem ipsum dolor sit amet TV",
+            "colour": "purple",
+            "icon": "tt_icon-tv-lite",
+            "points": [
+                "TalkTalk TV box – pause &amp; rewind live TV",
+                "<show-mo text='Up to 80 Freeview channels'><free-view></free-view></show-mo>" ,
+                "Add &amp; remove channels, including Sky Sports &amp; Sky Cinema, on a flexible 1 month contract",
+                "Fixed price for your {{ contractLength }} month broadband plan, <a click-event=\"fast_contract_length\" href=\"contract-length\">other contract lengths available</a>"
+            ],
+            "saving": {
+                "amount": 329,
+                "time": "24 months",
+                "competitor": "BT"
+            },
+            "comparison": {
+                "title": "See how our Fast Broadband with TV package compares to BT, Sky &amp; Virgin Media",
+                "header": [
+                    "",
+                    ".tt_icon-TalkTalk-logo",
+                    "Sky",
+                    "Virgin",
+                    "BT"
+                ],
+                "text": "24 months cost comparison based of TalkTalk Fast Broadband with a TV Box (£19.95/month for 24 months plus £25.00 for the TV box) compared to standard online price of BT Unlimited Broadband with Weekend Calls and Starter TV at £29.99/month for 12 months, £40.99/month thereafter, with £60  BT reward card,  12 months min. term, £59.99 Connection fee and hub delivery (incl. unlimited Wi-Fi, 100GB BT Cloud). Prices correct at 02/08/17",
+                "body": [
+                    [
+                        "Package",
+                        "TV Fast Broadband",
+                        "Sky Broadband Unlimited + Original Bundle & Sky Q",
+                        "Player Bundle",
+                        "Unlimited Broadband + Starter TV"
+                    ],
+                    [
+                        "Fixed price for 24 months",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Access to Netflix",
+                        "/",
+                        "X",
+                        "/",
+                        "/"
+                    ],
+                    [
+                        "Totally unlimited data usage",
+                        "/",
+                        "/",
+                        "X",
+                        "/"
+                    ],
+                    [
+                        "Monthly package cost",
+                        "£21.50 for 24 months",
+                        "£45.99 for 12 months, £50.99 thereafter",
+                        "£33 for 12 months, £48 thereafter",
+                        "£29.99 for 12 months, £46.49 thereafter"
+                    ],
+                    [
+                        "One off set up costs (inc. router & delivery charge)",
+                        "£25",
+                        "£39.95",
+                        "£20.00",
+                        "£59.99"
+                    ],
+                    [
+                        "Current average monthly total (inc. set up cost & line rental)",
+                        "£22.54",
+                        "£51.40",
+                        "£43.58",
+                        "£44.99"
+                    ]
+                ],
+                "footer": [
+                    "24 month saving with TalkTalk",
+                    "",
+                    "£584.83",
+                    "£505.00",
+                    "£538.75"
+                ]
+            }
+        },
+        "plusTV": {
+            "title": "TV Plus with Fast Broadband",
+            "subtitle": null,
+            "description": "Lorem ipsum dolor sit amet plusTV",
+            "colour": "purple",
+            "icon": "tt_icon-tv-r-plus",
+            "points": [
+                "TalkTalk TV Plus box – pause, rewind &amp; record up to 180 hours of TV",
+                "Add &amp; remove channels, including Sky Sports &amp; Sky Cinema, on a flexible 1 month contract",
+                "Fixed price for your {{ contractLength }} month broadband plan, <a click-event=\"tv_contract_length\" href=\"contract-length\">other contract lengths available</a>",
+                "<show-mo click-event='tv_see_channels' text='Up to 80 Freeview channels & 6 top entertainment channels from Sky'><free-view plus=true></free-view></show-mo>"
+            ],
+            "saving": {
+                "amount": 161,
+                "time": "24 months",
+                "competitor": "BT"
+            },
+            "comparison": {
+                "title": "See how our Fast with TV Plus package compares to BT, Sky & Virgin Media",
+                "header": [
+                    "",
+                    ".tt_icon-TalkTalk-logo",
+                    "BT",
+                    "Sky",
+                    "Virgin"
+                ],
+                "text": "Virgin Media package comes with up to 50Mb speeds, 12 month contract & weekend calls. BT package comes with 18 month contract, weekend calls, unlimited wi-fi, 200GB BT Cloud; Sky package comes with 12 month contract with BB and 18 month contract for TV. Prices correct at 21/11/17.",
+                "body": [
+                    [
+                        "Plan",
+                        "Fast Broadband + TV Plus",
+                        "Unlimited Broadband + Starter TV",
+                        "Sky Broadband Unlimited + Original Bundle & Sky Q",
+                        "Player Bundle"
+                    ],
+                    [
+                        "Total cost over 24 months",
+                        "£671.80",
+                        "£833.75",
+                        "£1095.83",
+                        "£956.00"
+                    ],
+                    [
+                        "Fixed Price Guarantee for 24 months",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Totally unlimited data usage",
+                        "/",
+                        "/",
+                        "/",
+                        "X"
+                    ],
+                    [
+                        "Number of TV channels included",
+                        "Up to 86",
+                        "Up to 80",
+                        "270",
+                        "60+"
+                    ],
+                    [
+                        "Access to Netflix",
+                        "/",
+                        "/",
+                        "X",
+                        "/"
+                    ],
+                    [
+                        "Access to BT Sports",
+                        "/",
+                        "/",
+                        "/",
+                        "/"
+                    ],
+                    [
+                        "Access to Sky Sports",
+                        "/",
+                        "X",
+                        "/",
+                        "/"
+                    ],
+                    [
+                        "Free safety and security features",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ],
+                    [
+                        "Same deals for new & existing customers",
+                        "/",
+                        "X",
+                        "X",
+                        "X"
+                    ]
+                ],
+                "footer": [
+                    "Savings with TalkTalk over 24 months",
+                    "",
+                    "£161.95",
+                    "£424.03",
+                    "£284.20"
+                ]
+            },
+            "faqs": {
+                "header": "Frequently asked questions",
+                "articles": [
+                    {
+                        "header": "What is a TV Boost?",
+                        "text": "<p>TV Boosts are collections of TV channels you can add to your broadband &amp; TV package for extra live and on-demand entertainment. You only pay for a month at a time, so there&rsquo;s no long-term commitment and they&rsquo;re easy to add through your TV box.</p>"
+                    },
+                    {
+                        "header": "When will my TalkTalk TV box be delivered?",
+                        "text": "<p>You should receive your TV Box within 2 working days of your broadband go live date. You&rsquo;ll receive an SMS that it&rsquo;s on its way and an update on delivery day with a 1-hour window.</p>"
+                    },
+                    {
+                        "header": "Will I need to sign for the TV box on delivery?",
+                        "text": "<p>Yes, a signature is required. If you are unavailable the driver will try to deliver to a neighbour or leave a card for you with pick-up and redelivery options.</p>"
+                    },
+                    {
+                        "header": "What if my router is in a different room to my TV?",
+                        "text": "<p>To minimise cabling you can add a pair of Powerline Adaptors when you place your order.</p></p> These turn a mains socket into a network connection and extend your broadband connection.</p>"
+                    }
+                ]
+            },
+            "channels": {
+                "title": "Enjoy 30+ premium channels with Entertainment Boost",
+                "logos": [
+                    {
+                        "alt": "Sky 1",
+                        "sprite": "tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt": "Sky 2",
+                        "sprite": "tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt": "Sky Living",
+                        "sprite": "tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt": "Real Lives",
+                        "sprite": "tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt": "Sky Arts",
+                        "sprite": "tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt": "Sky Sports News HQ",
+                        "sprite": "tt_sprite-default-sky-sports-news"
+                    },
+                    {
+                        "alt": "Gold",
+                        "sprite": "tt_sprite-default-gold-small"
+                    },
+                    {
+                        "alt": "Watch",
+                        "sprite": "tt_sprite-default-watch-small"
+                    },
+                    {
+                        "alt": "Alibi",
+                        "sprite": "tt_sprite-default-alibi-small"
+                    },
+                    {
+                        "alt": "Eden",
+                        "sprite": "tt_sprite-default-eden"
+                    },
+                    {
+                        "alt": "Good Food",
+                        "sprite": "tt_sprite-default-good-food-small"
+                    },
+                    {
+                        "alt": "SyFy",
+                        "sprite": "tt_sprite-default-syfy-small"
+                    },
+                    {
+                        "alt": "Universal channel",
+                        "sprite": "tt_sprite-default-universal-small"
+                    },
+                    {
+                        "alt": "Fox",
+                        "sprite": "tt_sprite-default-fox-small"
+                    },
+                    {
+                        "alt": "E",
+                        "sprite": "tt_sprite-default-e-small"
+                    },
+                    {
+                        "alt": "Comedy Central",
+                        "sprite": "tt_sprite-default-comedy-central-small"
+                    },
+                    {
+                        "alt": "Comedy Central Extra",
+                        "sprite": "tt_sprite-default-comedy-central-extra"
+                    },
+                    {
+                        "alt": "MTV",
+                        "sprite": "tt_sprite-default-mtv-small"
+                    },
+                    {
+                        "alt": "National Geographic Channel",
+                        "sprite": "tt_sprite-default-nat-geo-small"
+                    },
+                    {
+                        "alt": "National Geographic Wild",
+                        "sprite": "tt_sprite-default-nat-geo-wild"
+                    },
+                    {
+                        "alt": "History",
+                        "sprite": "tt_sprite-default-history-small"
+                    },
+                    {
+                        "alt": "Lifetime",
+                        "sprite": "tt_sprite-default-lifetime"
+                    },
+                    {
+                        "alt": "MTV Hits",
+                        "sprite": "tt_sprite-default-mtv-hits-small"
+                    },
+                    {
+                        "alt": "MTV Rocks",
+                        "sprite": "tt_sprite-default-mtv-rocks"
+                    }
+                ]
+            }
+        },
+        "skySportsBundle": {
+            "bundleId": 99991001,
+            "title": "TV Plus + Fast Broadband + Sky Sports bundle",
+            "offerText": "Limited time offer",
+            "description": "Lorem ipsum dolor sit amet plusTV",
+            "subtitle": null,
+            "colour": "blue",
+            "icon": "tt_icon-tv-r-plus",
+            "points": [
+                "TV Plus box – pause, rewind &amp; record live TV",
+                "Half price Sky Sports for 18 months",
+                "Catch up with the best on-demand players e.g. BBC iPlayer, Demand 5 and more",
+                "Fixed price unlimited broadband for 18 months"
+            ],
+            "saving": {
+                "amount": 18,
+                "time": "Offer ends soon",
+                "competitor": "Dont miss out."
+            },
+            "side_image": {
+                "text": "30+ entertainment channels including Sky One",
+                "images": {
+                    "xs": {
+                        "url": "/img/pages/black-friday/skysports/side-image/xs.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "sm": {
+                        "url": "/img/pages/black-friday/skysports/side-image/sm.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "md": {
+                        "url": "/img/pages/black-friday/skysports/side-image/md.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "lg": {
+                        "url": "/img/pages/black-friday/skysports/side-image/lg.jpg",
+                        "alt": "Smiley Happy Family"
+                    }
+                }
+            },
+            "faqs": {
+                "header": "Frequently asked questions",
+                "articles": [
+                    {
+                        "header": "What is a TV Boost?",
+                        "text": "<p>TV Boosts are collections of TV channels you can add to your broadband &amp; TV package for extra live and on-demand entertainment. You only pay for a month at a time, so there&rsquo;s no long-term commitment and they&rsquo;re easy to add through your TV box.</p>"
+                    },
+                    {
+                        "header": "When will my TalkTalk TV box be delivered?",
+                        "text": "<p>You should receive your TV Box within 2 working days of your broadband go live date. You&rsquo;ll receive an SMS that it&rsquo;s on its way and an update on delivery day with a 1-hour window.</p>"
+                    },
+                    {
+                        "header": "Will I need to sign for the TV box on delivery?",
+                        "text": "<p>Yes, a signature is required. If you are unavailable the driver will try to deliver to a neighbour or leave a card for you with pick-up and redelivery options.</p>"
+                    },
+                    {
+                        "header": "What if my router is in a different room to my TV?",
+                        "text": "<p>To minimise cabling you can add a pair of Powerline Adaptors when you place your order.</p></p> These turn a mains socket into a network connection and extend your broadband connection.</p>"
+                    }
+                ]
+            },
+            "channels": {
+                "title": "Enjoy 30+ premium channels with Entertainment Boost",
+                "logos": [
+                    {
+                        "alt": "Sky 1",
+                        "sprite": "tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt": "Sky 2",
+                        "sprite": "tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt": "Sky Living",
+                        "sprite": "tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt": "Real Lives",
+                        "sprite": "tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt": "Sky Arts",
+                        "sprite": "tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt": "Sky Sports News HQ",
+                        "sprite": "tt_sprite-default-sky-sports-news"
+                    },
+                    {
+                        "alt": "Gold",
+                        "sprite": "tt_sprite-default-gold-small"
+                    },
+                    {
+                        "alt": "Watch",
+                        "sprite": "tt_sprite-default-watch-small"
+                    },
+                    {
+                        "alt": "Alibi",
+                        "sprite": "tt_sprite-default-alibi-small"
+                    },
+                    {
+                        "alt": "Eden",
+                        "sprite": "tt_sprite-default-eden"
+                    },
+                    {
+                        "alt": "Good Food",
+                        "sprite": "tt_sprite-default-good-food-small"
+                    },
+                    {
+                        "alt": "SyFy",
+                        "sprite": "tt_sprite-default-syfy-small"
+                    },
+                    {
+                        "alt": "Universal channel",
+                        "sprite": "tt_sprite-default-universal-small"
+                    },
+                    {
+                        "alt": "Fox",
+                        "sprite": "tt_sprite-default-fox-small"
+                    },
+                    {
+                        "alt": "E",
+                        "sprite": "tt_sprite-default-e-small"
+                    },
+                    {
+                        "alt": "Comedy Central",
+                        "sprite": "tt_sprite-default-comedy-central-small"
+                    },
+                    {
+                        "alt": "Comedy Central Extra",
+                        "sprite": "tt_sprite-default-comedy-central-extra"
+                    },
+                    {
+                        "alt": "MTV",
+                        "sprite": "tt_sprite-default-mtv-small"
+                    },
+                    {
+                        "alt": "National Geographic Channel",
+                        "sprite": "tt_sprite-default-nat-geo-small"
+                    },
+                    {
+                        "alt": "National Geographic Wild",
+                        "sprite": "tt_sprite-default-nat-geo-wild"
+                    },
+                    {
+                        "alt": "History",
+                        "sprite": "tt_sprite-default-history-small"
+                    },
+                    {
+                        "alt": "Lifetime",
+                        "sprite": "tt_sprite-default-lifetime"
+                    },
+                    {
+                        "alt": "MTV Hits",
+                        "sprite": "tt_sprite-default-mtv-hits-small"
+                    },
+                    {
+                        "alt": "MTV Rocks",
+                        "sprite": "tt_sprite-default-mtv-rocks"
+                    }
+                ]
+            }
+        },
+        "skyCinemaBundle": {
+            "bundleId": 99991002,
+            "title": "TV Plus with Fast Broadband + Sky Cinema bundle",
+            "description": "Lorem ipsum dolor sit amet plusTV",
+            "offerText": "Limited time offer",
+            "subtitle": null,
+            "colour": "blue",
+            "icon": "tt_icon-tv-r-plus",
+            "points": [
+                "TV Plus box – pause, rewind &amp; record live TV",
+                "Half price Sky Cinema for 18 months",
+                "30+ entertainment channels including Sky One &amp; Fox",
+                "Fixed price unlimited broadband for 18 months"
+            ],
+            "saving": {
+                "amount": 215,
+                "time": "18 months",
+                "competitor": "BT"
+            },
+            "side_image": {
+                "text": "30+ entertainment channels including Sky One",
+                "images": {
+                    "xs": {
+                        "url": "/img/pages/black-friday/skysports/side-image/xs.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "sm": {
+                        "url": "/img/pages/black-friday/skysports/side-image/sm.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "md": {
+                        "url": "/img/pages/black-friday/skysports/side-image/md.jpg",
+                        "alt": "Smiley Happy Family"
+                    },
+                    "lg": {
+                        "url": "/img/pages/black-friday/skysports/side-image/lg.jpg",
+                        "alt": "Smiley Happy Family"
+                    }
+                }
+            },
+            "faqs": {
+                "header": "Frequently asked questions",
+                "articles": [
+                    {
+                        "header": "What is a TV Boost?",
+                        "text": "<p>TV Boosts are collections of TV channels you can add to your broadband &amp; TV package for extra live and on-demand entertainment. You only pay for a month at a time, so there&rsquo;s no long-term commitment and they&rsquo;re easy to add through your TV box.</p>"
+                    },
+                    {
+                        "header": "When will my TalkTalk TV box be delivered?",
+                        "text": "<p>You should receive your TV Box within 2 working days of your broadband go live date. You&rsquo;ll receive an SMS that it&rsquo;s on its way and an update on delivery day with a 1-hour window.</p>"
+                    },
+                    {
+                        "header": "Will I need to sign for the TV box on delivery?",
+                        "text": "<p>Yes, a signature is required. If you are unavailable the driver will try to deliver to a neighbour or leave a card for you with pick-up and redelivery options.</p>"
+                    },
+                    {
+                        "header": "What if my router is in a different room to my TV?",
+                        "text": "<p>To minimise cabling you can add a pair of Powerline Adaptors when you place your order.</p></p> These turn a mains socket into a network connection and extend your broadband connection.</p>"
+                    }
+                ]
+            },
+            "channels": {
+                "title": "Enjoy 30+ premium channels with Entertainment Boost",
+                "logos": [
+                    {
+                        "alt": "Sky 1",
+                        "sprite": "tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt": "Sky 2",
+                        "sprite": "tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt": "Sky Living",
+                        "sprite": "tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt": "Real Lives",
+                        "sprite": "tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt": "Sky Arts",
+                        "sprite": "tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt": "Sky Sports News HQ",
+                        "sprite": "tt_sprite-default-sky-sports-news"
+                    },
+                    {
+                        "alt": "Gold",
+                        "sprite": "tt_sprite-default-gold-small"
+                    },
+                    {
+                        "alt": "Watch",
+                        "sprite": "tt_sprite-default-watch-small"
+                    },
+                    {
+                        "alt": "Alibi",
+                        "sprite": "tt_sprite-default-alibi-small"
+                    },
+                    {
+                        "alt": "Eden",
+                        "sprite": "tt_sprite-default-eden"
+                    },
+                    {
+                        "alt": "Good Food",
+                        "sprite": "tt_sprite-default-good-food-small"
+                    },
+                    {
+                        "alt": "SyFy",
+                        "sprite": "tt_sprite-default-syfy-small"
+                    },
+                    {
+                        "alt": "Universal channel",
+                        "sprite": "tt_sprite-default-universal-small"
+                    },
+                    {
+                        "alt": "Fox",
+                        "sprite": "tt_sprite-default-fox-small"
+                    },
+                    {
+                        "alt": "E",
+                        "sprite": "tt_sprite-default-e-small"
+                    },
+                    {
+                        "alt": "Comedy Central",
+                        "sprite": "tt_sprite-default-comedy-central-small"
+                    },
+                    {
+                        "alt": "Comedy Central Extra",
+                        "sprite": "tt_sprite-default-comedy-central-extra"
+                    },
+                    {
+                        "alt": "MTV",
+                        "sprite": "tt_sprite-default-mtv-small"
+                    },
+                    {
+                        "alt": "National Geographic Channel",
+                        "sprite": "tt_sprite-default-nat-geo-small"
+                    },
+                    {
+                        "alt": "National Geographic Wild",
+                        "sprite": "tt_sprite-default-nat-geo-wild"
+                    },
+                    {
+                        "alt": "History",
+                        "sprite": "tt_sprite-default-history-small"
+                    },
+                    {
+                        "alt": "Lifetime",
+                        "sprite": "tt_sprite-default-lifetime"
+                    },
+                    {
+                        "alt": "MTV Hits",
+                        "sprite": "tt_sprite-default-mtv-hits-small"
+                    },
+                    {
+                        "alt": "MTV Rocks",
+                        "sprite": "tt_sprite-default-mtv-rocks"
+                    }
+                ]
+            }
+        },
+        "skyCinemaAndSkySportsBundle": {
+            "bundleId": 99991003,
+            "title": "TV Plus + Fast Broadband + Sky Sports + Sky Cinema",
+            "description": "Lorem ipsum dolor sit amet plusTV",
+            "offerText": "Limited time offer",
+            "subtitle": null,
+            "colour": "blue",
+            "icon": "tt_icon-tv-r-plus",
+            "points": [
+                "TV Plus box – pause, rewind &amp; record live TV",
+                "Half price Sky Cinema and Sky Sports for 18 months",
+                "30+ entertainment channels including Sky One, Fox &amp; History",
+                "Fixed price unlimited broadband for 18 months"
+            ],
+            "saving": {
+                "amount": 215,
+                "time": "18 months",
+                "competitor": "BT"
+            },
+            "side_image": {
+                "text": "30+ entertainment channels including Sky One",
+                "images": {
+                    "xs": {
+                        "url": "/img/pages/black-friday/skyboth/side-image/Christmas-Footbal-upsell-xs.jpg",
+                        "alt": "Footbal-upsell"
+                    },
+                    "sm": {
+                        "url": "/img/pages/black-friday/skyboth/side-image/Christmas-Footbal-upsell-sm.jpg",
+                        "alt": "Footbal-upsell"
+                    },
+                    "md": {
+                        "url": "/img/pages/black-friday/skyboth/side-image/Christmas-Footbal-upsell-md.jpg",
+                        "alt": "Footbal-upsell"
+                    },
+                    "lg": {
+                        "url": "/img/pages/black-friday/skyboth/side-image/Christmas-Footbal-upsell-lg.jpg",
+                        "alt": "Footbal-upsell"
+                    }
+                }
+            },
+            "faqs": {
+                "header": "Frequently asked questions",
+                "articles": [
+                    {
+                        "header": "What is a TV Boost?",
+                        "text": "<p>TV Boosts are collections of TV channels you can add to your broadband &amp; TV package for extra live and on-demand entertainment. You only pay for a month at a time, so there&rsquo;s no long-term commitment and they&rsquo;re easy to add through your TV box.</p>"
+                    },
+                    {
+                        "header": "When will my TalkTalk TV box be delivered?",
+                        "text": "<p>You should receive your TV Box within 2 working days of your broadband go live date. You&rsquo;ll receive an SMS that it&rsquo;s on its way and an update on delivery day with a 1-hour window.</p>"
+                    },
+                    {
+                        "header": "Will I need to sign for the TV box on delivery?",
+                        "text": "<p>Yes, a signature is required. If you are unavailable the driver will try to deliver to a neighbour or leave a card for you with pick-up and redelivery options.</p>"
+                    },
+                    {
+                        "header": "What if my router is in a different room to my TV?",
+                        "text": "<p>To minimise cabling you can add a pair of Powerline Adaptors when you place your order.</p></p> These turn a mains socket into a network connection and extend your broadband connection.</p>"
+                    }
+                ]
+            },
+            "channels": {
+                "title": "Enjoy 30+ premium channels with Entertainment Boost",
+                "logos": [
+                    {
+                        "alt": "Sky 1",
+                        "sprite": "tt_sprite-default-sky-one-rebrand"
+                    },
+                    {
+                        "alt": "Sky 2",
+                        "sprite": "tt_sprite-default-sky-two-rebrand"
+                    },
+                    {
+                        "alt": "Sky Living",
+                        "sprite": "tt_sprite-default-sky-living-rebrand"
+                    },
+                    {
+                        "alt": "Real Lives",
+                        "sprite": "tt_sprite-default-real-lives"
+                    },
+                    {
+                        "alt": "Sky Arts",
+                        "sprite": "tt_sprite-default-sky-arts-rebrand"
+                    },
+                    {
+                        "alt": "Sky Sports News HQ",
+                        "sprite": "tt_sprite-default-sky-sports-news"
+                    },
+                    {
+                        "alt": "Gold",
+                        "sprite": "tt_sprite-default-gold-small"
+                    },
+                    {
+                        "alt": "Watch",
+                        "sprite": "tt_sprite-default-watch-small"
+                    },
+                    {
+                        "alt": "Alibi",
+                        "sprite": "tt_sprite-default-alibi-small"
+                    },
+                    {
+                        "alt": "Eden",
+                        "sprite": "tt_sprite-default-eden"
+                    },
+                    {
+                        "alt": "Good Food",
+                        "sprite": "tt_sprite-default-good-food-small"
+                    },
+                    {
+                        "alt": "SyFy",
+                        "sprite": "tt_sprite-default-syfy-small"
+                    },
+                    {
+                        "alt": "Universal channel",
+                        "sprite": "tt_sprite-default-universal-small"
+                    },
+                    {
+                        "alt": "Fox",
+                        "sprite": "tt_sprite-default-fox-small"
+                    },
+                    {
+                        "alt": "E",
+                        "sprite": "tt_sprite-default-e-small"
+                    },
+                    {
+                        "alt": "Comedy Central",
+                        "sprite": "tt_sprite-default-comedy-central-small"
+                    },
+                    {
+                        "alt": "Comedy Central Extra",
+                        "sprite": "tt_sprite-default-comedy-central-extra"
+                    },
+                    {
+                        "alt": "MTV",
+                        "sprite": "tt_sprite-default-mtv-small"
+                    },
+                    {
+                        "alt": "National Geographic Channel",
+                        "sprite": "tt_sprite-default-nat-geo-small"
+                    },
+                    {
+                        "alt": "National Geographic Wild",
+                        "sprite": "tt_sprite-default-nat-geo-wild"
+                    },
+                    {
+                        "alt": "History",
+                        "sprite": "tt_sprite-default-history-small"
+                    },
+                    {
+                        "alt": "Lifetime",
+                        "sprite": "tt_sprite-default-lifetime"
+                    },
+                    {
+                        "alt": "MTV Hits",
+                        "sprite": "tt_sprite-default-mtv-hits-small"
+                    },
+                    {
+                        "alt": "MTV Rocks",
+                        "sprite": "tt_sprite-default-mtv-rocks"
+                    }
+                ]
+            }
+        }
+    },
+    "comparison": {
+        "title": "Compare our Fast Broadband plan vs. BT, Sky &amp; Virgin Media",
+        "header": [
+            "",
+            ".tt_icon-TalkTalk-logo",
+            "BT",
+            "Sky",
+            "Virgin Media"
+        ],
+        "text": "Fast Broadband - Save £220.95 vs BT. 24 months cost comparison based of TalkTalk Fast Broadband (£19.95/month for 24 months) compared to standard online price of BT Unlimited Broadband with Weekend Calls at £23.99/month for 18 months, £42.99/month thereafter + £50 BT reward card, 18 months min. term, £9.99 hub delivery (incl. unlimited Wi-Fi, 200GB BT Cloud & online player). Prices correct at 07/12/17.",
+        "body": [
+            [
+                "Plan",
+                "Fast Broadband",
+                "Unlimited Broadband",
+                "Sky Broadband Unlimited",
+                "Vivid 50 BB and Phone"
+            ],
+            [
+                "Total cost over 24 months",
+                "£478.00",
+                "£699.75",
+                "£583.83",
+                "£848.00"
+            ],
+            [
+                "Fixed Price Guaranteed for 24 months",
+                "/",
+                "X",
+                "X",
+                "X"
+            ],
+            [
+                "Totally unlimited data usage",
+                "/",
+                "/",
+                "/",
+                "X"
+            ],
+            [
+                "Same deals for new & existing customers",
+                "/",
+                "X",
+                "X",
+                "X"
+            ]
+        ],
+        "footer": [
+            "Savings with TalkTalk over 24 months",
+            "",
+            "£220.95",
+            "£105.03",
+            "£369.20"
+        ]
+    },
+    "skyComparison": {
+        "title": "See how our Fast Broadband &amp; TV package compares to BT, Sky & Virgin Media",
+        "header": [
+            "",
+            ".tt_icon-TalkTalk-logo",
+            "Sky",
+            "Virgin",
+            "BT"
+        ],
+        "text": "Virgin Media package comes with up to 50Mb speeds, 12 month contract & weekend calls. BT package comes with 18 month contract, weekend calls, unlimited wi-fi, 200GB BT Cloud; Sky package comes with 12 month contract with BB and 18 month contract for TV. Prices correct at 21/11/17",
+        "body": [
+            [
+                "Package",
+                "TV Fast Broadband",
+                "Sky Broadband Unlimited + Original Bundle & Sky Q",
+                "Player Bundle",
+                "Unlimited Broadband + Starter TV"
+            ],
+            [
+                "Fixed price for 24 months",
+                "/",
+                "X",
+                "X",
+                "X"
+            ],
+            [
+                "Access to Netflix",
+                "/",
+                "X",
+                "/",
+                "/"
+            ],
+            [
+                "Totally unlimited data usage",
+                "/",
+                "/",
+                "X",
+                "/"
+            ],
+            [
+                "Monthly package cost",
+                "£19.95 for 24 months",
+                "£38/month for 12 months, £48.99 for 6 months, £50.99 thereafter",
+                "£30 for 12 months, £48 thereafter",
+                "£27.49 for 18 months, £46.49 thereafter + £50 BT reward card"
+            ],
+            [
+                "One off set up costs (inc. router & delivery charge)",
+                "£25.00",
+                "£39.95",
+                "£20.00",
+                "£59.99"
+            ],
+            [
+                "Current average monthly total (inc. set up cost & line rental)",
+                "£20.99",
+                "£45.66",
+                "£39.83",
+                "£34.74"
+            ]
+        ],
+        "footer": [
+            "24 month saving with TalkTalk",
+            "",
+            "£592.03",
+            "£452.20",
+            "£329.95"
+        ]
+    }
+}
