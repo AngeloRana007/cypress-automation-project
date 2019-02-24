@@ -97,7 +97,7 @@ it('should have not have a cli field', function(){
 // some functions
 // assertions code}});
 
-# Further Consideration
+# Further Considerations
 
 - SDLC and test activities, i.e. how to change test approach (i.e. QAs writing Acceptance criteria for every ticket, QAs review spec requirements and adding negative scenarios in BDD format, writing automated tests in development stage => find bugs earlier before QAing),
 - Cross Browser testing, Test pyramid: Unit vs Integration vs E2E, how to involve Devs in test activities.
