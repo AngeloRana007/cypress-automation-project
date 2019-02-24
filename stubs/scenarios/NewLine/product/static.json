@@ -1,0 +1,659 @@
+{
+    "status": 1,
+    "message": [
+        "success"
+    ],
+    "messageCode": [
+        "success"
+    ],
+    "data": {
+        "isTRIOup": true,
+        "customer": "new",
+        "package": [
+            {
+                "packageName": "Ultra Fibre Optic Broadband",
+                "packageCode": "ultra",
+                "monthlyCharge": 21.7,
+                "contractLength": 24,
+                "hasPromo": true,
+                "monthlyChargeWithPromo": 21.7,
+                "promotionLength": 18,
+                "promoCode": "&pound;5off",
+                "minimumGuaranteedSpeed": null,
+                "downloadSpeedLowerRange": null,
+                "downloadSpeedUpperRange": null,
+                "uploadSpeed": null,
+                "promotionEndDate": 0,
+                "showPromoCountdown": false,
+                "boosts": {
+                    "callBoosts": {
+                        "10609": {
+                            "propositionId": 10609,
+                            "name": "SuperSafe",
+                            "monthlyCharge": 2,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 2,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Award winning online protection for your mobiles, tablets and computers. Makes sure you’re secure when banking, while also detecting, blocking and removing viruses on up to 8 of your devices. "
+                            ],
+                            "shortDescription": "Award-winning online security for 8 devices",
+                            "features": [
+                                "Online Banking Protection – lets you know when it’s safe to bank online by providing an additional layer of protection",
+                                "Anti-virus Protection – Detects, blocks and removes viruses to minimise threats to your device’s operation",
+                                "Identity Protection – protects your passwords and private data when surfing the web",
+                                "Multi-device -  protects your mobiles, tablets and computers, both in and out of the home",
+                                "Parental controls - allows you to remotely manage devices so you can even control what your kids have access to online"
+                            ],
+                            "channels": null,
+                            "category": "Calls and Broadband",
+                            "subCategory": "security"
+                        },
+                        "10616": {
+                            "propositionId": 10616,
+                            "name": "Unlimited UK Calls Boost",
+                            "monthlyCharge": 7.5,
+                            "hasPromo": true,
+                            "promoDiscount": 2.5,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;2.5off",
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Unlimited calls to UK mobiles and landlines 24 hours a day, 7 days a week. If you use your home phone for more than an hour a month, then it'll be cheaper for you to take up our Unlimited UK Calls Boost."
+                            ],
+                            "shortDescription": "Call landlines & mobiles anytime",
+                            "features": [
+                                "Make unlimited calls to UK mobiles and landlines",
+                                "Call anytime of the day, on weekdays or over the weekend",
+                                "Cheaper than BT, Sky & Virgin<sup>*</sup>",
+                                "No long term commitment –  you can add or remove when it suits you"
+                            ],
+                            "channels": null,
+                            "category": "Calls and Broadband",
+                            "subCategory": "unlimited_uk"
+                        },
+                        "20872": {
+                            "propositionId": 20872,
+                            "name": "SuperSafe",
+                            "monthlyCharge": 0,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 0,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Award winning online protection for your mobiles, tablets and computers. Makes sure you’re secure when banking, while also detecting, blocking and removing viruses on up to 8 of your devices. "
+                            ],
+                            "shortDescription": "Award-winning online security for 1 device",
+                            "features": [
+                                "Online Banking Protection – lets you know when it’s safe to bank online by providing an additional layer of protection",
+                                "Anti-virus Protection – Detects, blocks and removes viruses to minimise threats to your device’s operation",
+                                "Identity Protection – protects your passwords and private data when surfing the web",
+                                "Parental controls - allows you to remotely manage devices so you can even control what your kids have access to online"
+                            ],
+                            "channels": null,
+                            "category": "Calls and Broadband",
+                            "subCategory": "security"
+                        },
+                        "20936": {
+                            "propositionId": 20936,
+                            "name": "International Saver Boost",
+                            "monthlyCharge": 2.5,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 2.5,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Discounted rates on all your international calls, so no matter where in the world you need to call, you’ll save money."
+                            ],
+                            "shortDescription": "Discounted rates to all destinations",
+                            "features": [
+                                "Discounted calls to all international destinations",
+                                "Pay less for international calling with TalkTalk than BT, Sky and Virgin<sup>*</sup>",
+                                "No long term commitment – you can add or remove when it suits you"
+                            ],
+                            "channels": null,
+                            "category": "International",
+                            "subCategory": "saver"
+                        },
+                        "20937": {
+                            "propositionId": 20937,
+                            "name": "International Extra Boost",
+                            "monthlyCharge": 5,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "1000 landline minutes to 50 countries, meaning it’s no longer expensive to keep in touch with people all over the world"
+                            ],
+                            "shortDescription": "1000 landline minutes to 50 countries",
+                            "features": [
+                                "1000 inclusive landline minutes to 50 international destinations – <a href=\"#\">see full list</a>",
+                                "The cheapest way to call internationally vs BT, Sky and Virgin<sup>*</sup>",
+                                "Less than 1p a minute to inclusive countries",
+                                "Discounted calls to all non-inclusive international destinations",
+                                "No long term commitment – you can add or remove when suits you"
+                            ],
+                            "channels": null,
+                            "category": "International",
+                            "subCategory": "extra"
+                        },
+                        "20938": {
+                            "propositionId": 20938,
+                            "name": "International Max Boost",
+                            "monthlyCharge": 10,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 10,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "callboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "1000 mobile & landline minutes to 50 countries, meaning it’s no longer expensive to keep in touch with people all over the world"
+                            ],
+                            "shortDescription": "1000 landline & mobile minutes to 50 countries",
+                            "features": [
+                                "1000 inclusive mobile and landline minutes to 50 international destinations – <a href=\"#\">see full list</a>",
+                                "The cheapest way to call internationally vs BT, Sky and Virgin<sup>*</sup>",
+                                "More inclusive destinations to mobiles  than BT, Sky and Virgin<sup>*</sup>",
+                                "Just 1p penny a minute to inclusive countries<sup>*</sup>",
+                                " Discounted calls to all non-inclusive international destinations",
+                                "No long term commitment – you can add or remove when suits you"
+                            ],
+                            "channels": null,
+                            "category": "International",
+                            "subCategory": "max"
+                        }
+                    },
+                    "tvBoosts": {
+                        "10726": {
+                            "propositionId": 10726,
+                            "name": "Asian TV Boost",
+                            "monthlyCharge": 10,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 10,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "The best of Bollywood blockbusters and TV channels"
+                            ],
+                            "shortDescription": "Bollywood blockbusters & TV channels",
+                            "features": [
+                                "The best of Bollywood blockbusters and TV",
+                                "Channels include Zee TV and Sony TV Asia",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "World boosts",
+                            "subCategory": "asian"
+                        },
+                        "10735": {
+                            "propositionId": 10735,
+                            "name": "Sky Cinema Boost",
+                            "monthlyCharge": 15,
+                            "hasPromo": true,
+                            "promoDiscount": 5,
+                            "monthlyChargeWithPromo": 10,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;5off",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Wake up to a new movie every day with the biggest ever line-up of on demand movies. From Spectre to Minions, there’s something for everyone"
+                            ],
+                            "shortDescription": "Over 1,200 movies to watch on demand",
+                            "features": [
+                                "Over 1200 movies to watch on demand, across 11 Sky Movies channels",
+                                "A brand new premiere every day",
+                                "More blockbusters closer to cinema release than any other subscription service",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Cinema and Sports boosts",
+                            "subCategory": "sky_cinema"
+                        },
+                        "10741": {
+                            "propositionId": 10741,
+                            "name": "Sky Sports Boost",
+                            "monthlyCharge": 32,
+                            "hasPromo": true,
+                            "promoDiscount": 7,
+                            "monthlyChargeWithPromo": 25,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;7off",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Sky Sports Boost has something for everyone with more Premier League games than ever before, plus golf, rugby, cricket and much more"
+                            ],
+                            "shortDescription": "All 6 Sky Sports channels",
+                            "features": [
+                                "126 live and exclusive Premier League games – more than ever before",
+                                "Biggest football season ever with over 700 live games, including brand new Friday night football and Sky Bet Championship matches",
+                                "Coverage of all 4 major golf championships, plus The Ryder Cup",
+                                "Something for everyone with international rugby and cricket, as well as darts, tennis and every F1 race live",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Cinema and Sports boosts",
+                            "subCategory": "sky_sports"
+                        },
+                        "10745": {
+                            "propositionId": 10745,
+                            "name": "Sky Sports & Sky Cinema",
+                            "monthlyCharge": 42,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 42,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "The ultimate combo of Sports and Movies"
+                            ],
+                            "shortDescription": "Ultimate combo of sports & movies",
+                            "features": [
+                                "Over 1200 movies to watch on demand, across 11 Sky Movies channels",
+                                "A brand new premiere every day FplOriginal British drama and comedy, as well as the best from the US",
+                                "126 live and exclusive Premier League games – more than ever before",
+                                "Something for everyone with international rugby and cricket, as well as darts, tennis and every F1 race live",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Cinema and Sports boosts",
+                            "subCategory": "sky_bundle"
+                        },
+                        "12944": {
+                            "propositionId": 12944,
+                            "name": "PictureBox",
+                            "monthlyCharge": 5,
+                            "hasPromo": true,
+                            "promoDiscount": 2.5,
+                            "monthlyChargeWithPromo": 2.5,
+                            "promotionLength": 18,
+                            "promoCode": "Half price",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "A fantastic line-up of on demand movies and tv boxsets to suit the whole family"
+                            ],
+                            "shortDescription": "On demand movies & TV boxsets",
+                            "features": [
+                                "60 classic movies from Universal available to watch any time, with 7 new ones added every week",
+                                "Over 50 US boxsets including Grimm, House, Heroes and many more",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "TV on-demand boosts",
+                            "subCategory": "picturebox"
+                        },
+                        "14100": {
+                            "propositionId": 14100,
+                            "name": "Kids Boost",
+                            "monthlyCharge": 5,
+                            "hasPromo": true,
+                            "promoDiscount": 2.5,
+                            "monthlyChargeWithPromo": 2.5,
+                            "promotionLength": 18,
+                            "promoCode": "Half price",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "They'll love these top-rated UK kids channels, with over 250 episodes on demand and favourites like Peppa Pig and Spongebob Squarepants. Buy 30 days at a time – perfect for school holidays"
+                            ],
+                            "shortDescription": "9 channels including Nick Jnr & Disney Channel",
+                            "features": [
+                                "Includes 9 of the UK's most popular Kids pay TV channels",
+                                "Includes Nick Jnr, Disney Channel and Boomerang<sup>*</sup>",
+                                "250+ episodes available to watch on demand",
+                                "Great value and perfect for school holidays and wet weekends",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Entertainment and kids Boosts",
+                            "subCategory": "kids"
+                        },
+                        "14150": {
+                            "propositionId": 14150,
+                            "name": "TV Starter Boost",
+                            "monthlyCharge": 5,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "6 of the most popular entertainment channels from Sky with original British drama, comedy, and US series"
+                            ],
+                            "shortDescription": "6 top Sky entertainment channels",
+                            "features": [
+                                "6 top Sky Entertainment channels, including Sky 1, Sky Living, Sky Arts and Sky Sports News HQ",
+                                "Over 100 hours of catch up shows on demand",
+                                "Original British drama and comedy, as well as the best from the US",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Entertainment",
+                            "subCategory": "tv_starter"
+                        },
+                        "20732": {
+                            "propositionId": 20732,
+                            "name": "Box Nation Boost",
+                            "monthlyCharge": 12,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 12,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "Britain's only 24/7 boxing channel"
+                            ],
+                            "shortDescription": "Britain's only 24/7 boxing channel",
+                            "features": [
+                                "Get access to live fights and award-winning boxing documentaries",
+                                "The perfect channel for boxing fans",
+                                "Amazing upcoming fights including the Fury v Klitschko rematch",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Sports boosts",
+                            "subCategory": "boxnation"
+                        },
+                        "20848": {
+                            "propositionId": 20848,
+                            "name": "Sky Cinema Boost on demand",
+                            "monthlyCharge": 15,
+                            "hasPromo": true,
+                            "promoDiscount": 5,
+                            "monthlyChargeWithPromo": 10,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;5off",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "This is a great bonus for movie lovers! Simply sign up to one of our Sky Cinema Boosts to enjoy access to over 1000 On Demand blockbusters ready to watch when you are"
+                            ],
+                            "shortDescription": "Over 1,200 movies to watch on demand",
+                            "features": [
+                                "Sky On Demand offers you access to hundreds of hours of movies and sporting action on demand from Sky Cinema",
+                                "Depending on your subscription, you will be able to watch over 1000 blockbuster movies from Sky Cinema",
+                                "No charges,Sky On Demand is a bonus service for subscribers to the Sky Cinema Boosts",
+                                "You will be able to catch up with most of the movies from the past 7 days on Sky On Demand. However, in certain circumstances, some movies may be unavailable due to rights restrictions. Unfortunately this is outside the control of TalkTalk."
+                            ],
+                            "channels": null,
+                            "category": "TV on-demand boosts",
+                            "subCategory": "sky_cinema_on_demand"
+                        },
+                        "30010": {
+                            "propositionId": 30010,
+                            "name": "Entertainment Boost",
+                            "monthlyCharge": 12,
+                            "hasPromo": true,
+                            "promoDiscount": 6,
+                            "monthlyChargeWithPromo": 6,
+                            "promotionLength": 18,
+                            "promoCode": "Half price",
+                            "type": "tvboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "There's something for everyone with top rated UK channels showing the best in comedy, drama and factual entertainment"
+                            ],
+                            "shortDescription": "30 channels including Sky 1, Sky Living & Fox",
+                            "features": [
+                                "The UK's top rated entertainment channels including Sky 1, Sky Living, Fox, Gold, National Geographic and many more",
+                                "Award-winning drama and comedy from the US and UK including The Walking Dead, Grey's Anatomy, Modern Family, A League of Their Own and Sherlock",
+                                "The best in factual entertainment from National Geographic, History, Eden, Nat Geo Wild and Crime & Investigation",
+                                "Hundreds of hours on demand in the TalkTalk Player",
+                                "Includes brand new FilmClub featuring 20 iconic movies with 5 new ones every week",
+                                "Dip in and out a month at a time - no long term commitment"
+                            ],
+                            "channels": null,
+                            "category": "Entertainment and kids Boosts",
+                            "subCategory": "entertainment_bundle"
+                        }
+                    },
+                    "fibreBoosts": {
+                        "30008": {
+                            "propositionId": 30008,
+                            "name": "Fibre Speed Boost",
+                            "monthlyCharge": 5,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "fibreboost",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": null,
+                            "shortDescription": null,
+                            "features": null,
+                            "channels": null,
+                            "category": null,
+                            "subCategory": null
+                        }
+                    },
+                    "bundle": {
+                        "99991003": {
+                            "propositionId": 99991003,
+                            "name": "TV Plus box, Sky Cinema Boost & Sky Sports Boost",
+                            "monthlyCharge": 81.95,
+                            "hasPromo": true,
+                            "promoDiscount": 29.5,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;29.5off",
+                            "type": "bundle",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": ["TalkTalk Plus TV Box with Sky Sports Boost & Sky Cinema Boost"],
+                            "shortDescription": "TalkTalk Plus TV Box with Sky Sports Boost & Sky Cinema Boost",
+                            "features": [""],
+                            "channels": null,
+                            "category": "Bundle",
+                            "subCategory": "plus_tv_sky_sports_cinema_bundle"
+                        },
+                        "99991002": {
+                            "propositionId": 99991002,
+                            "name": "TV Plus box & Sky Cinema Boost",
+                            "monthlyCharge": 49.95,
+                            "hasPromo": true,
+                            "promoDiscount": 13.5,
+                            "monthlyChargeWithPromo": 36.46,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;13.5off",
+                            "type": "bundle",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": ["TalkTalk Plus TV Box with Sky Cinema Boost"],
+                            "shortDescription": "TalkTalk Plus TV Box with Sky Cinema Boost",
+                            "features": [""],
+                            "channels": null,
+                            "category": "Bundle",
+                            "subCategory": "plus_tv_sky_cinema_bundle"
+                        },
+                        "99991001": {
+                            "propositionId": 99991001,
+                            "name": "TV Plus box & Sky Sports Boost",
+                            "monthlyCharge": 66.95,
+                            "hasPromo": true,
+                            "promoDiscount": 22,
+                            "monthlyChargeWithPromo": 44.95,
+                            "promotionLength": 18,
+                            "promoCode": "&pound;22off",
+                            "type": "bundle",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": ["TalkTalk Plus TV Box with Sky Sports Boost"],
+                            "shortDescription": "TalkTalk Plus TV Box with Sky Sports Boost",
+                            "features": [""],
+                            "channels": null,
+                            "category": "Bundle",
+                            "subCategory": "plus_tv_sky_sports_bundle"
+                        },
+                        "99991000": {
+                            "propositionId": 99991000,
+                            "name": "TV Plus box & Entertainment Boos",
+                            "subCategory": "plus_tv_bundle",
+                            "monthlyCharge": 5,
+                            "hasPromo": false,
+                            "promoDiscount": 0,
+                            "monthlyChargeWithPromo": 5,
+                            "promotionLength": 0,
+                            "promoCode": null,
+                            "type": "bundle",
+                            "selectedStatus": false,
+                            "isEditable": true,
+                            "multiPromoFlag": false,
+                            "description": [
+                                "TalkTalk Plus TV Box with Entertainment Boost"
+                            ],
+                            "shortDescription": "TalkTalk Plus TV Box with Entertainment Boost",
+                            "features": [
+                                ""
+                            ],
+                            "channels": null,
+                            "category": "Bundle",
+                            "subCategory": "plus_tv_bundle"
+                        }
+                    }
+                },
+                "oneOff": {
+                    "setup": {
+                        "30039": {
+                            "propositionId": 30039,
+                            "oneOffName": "Setup Fee",
+                            "oneOffCharge": 0,
+                            "oneOffChargeWithPromo": 0,
+                            "type": "connection charge",
+                            "selectedStatus": true
+                        }
+                    },
+                    "tvbox": {
+                        "30053": {
+                            "propositionId": 30053,
+                            "oneOffName": "TV Box",
+                            "oneOffCharge": 25,
+                            "oneOffChargeWithPromo": 25,
+                            "type": "tvbox",
+                            "selectedStatus": false
+                        },
+                        "30055": {
+                            "propositionId": 30055,
+                            "oneOffName": "TV Plus Box",
+                            "oneOffCharge": 50,
+                            "oneOffChargeWithPromo": 50,
+                            "type": "tvbox",
+                            "selectedStatus": false
+                        },
+                        "30065": {
+                            "propositionId": 30065,
+                            "oneOffName": "TV Plus Box",
+                            "oneOffCharge": 25,
+                            "oneOffChargeWithPromo": 25,
+                            "type": "tvbox",
+                            "selectedStatus": false
+                        }
+                    },
+                    "powerlineadaptor": {
+                        "20565": {
+                            "propositionId": 20565,
+                            "oneOffName": "Powerline",
+                            "oneOffCharge": 17.5,
+                            "oneOffChargeWithPromo": 17.5,
+                            "type": "powerlineadaptor",
+                            "selectedStatus": false
+                        }
+                    }
+                },
+                "affiliateLogoUrl": "",
+                "phoneNumber": "0800 049 1375",
+                "simDetails": {
+                    "FREESIM": {
+                        "productId": "100002610",
+                        "simName": "ESSENTIAL SIM",
+                        "selectedStatus": false,
+                        "monthlyCharge": 5,
+                        "hasPromo": true,
+                        "monthlyChargeWithPromo": 0,
+                        "promotionLength": 0,
+                        "isFreeSim": true,
+                        "selectedSimSize": null,
+                        "contractLength": 30,
+                        "contractType": "DAY",
+                        "simDescription": [
+                            [
+                                "250",
+                                "500"
+                            ],
+                            "200 minutes",
+                            "Unlimited texts"
+                        ]
+                    }
+                }
+            }
+        ],
+        "branchId": "1231",
+        "channelId": "TTWEB"
+    }
+}

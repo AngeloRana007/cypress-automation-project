@@ -1,0 +1,167 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 3,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0zd818fqktdq"
+          }
+        },
+        "id": "4EpS5YfVjq4C2cM0GSmaYm",
+        "type": "Entry",
+        "createdAt": "2018-02-05T10:21:41.952Z",
+        "updatedAt": "2018-02-06T16:00:54.991Z",
+        "revision": 8,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "ShopPage",
+        "portalIds": [
+          "tt-aff-uswitch"
+        ],
+        "path": "home/v",
+        "components": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2QWlH1NfN68qEWsC0Esg6U"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2iw8kXoKys0k6CkYqmUMG6"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1RlrEYsi0YaAQqumYyAi2E"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4E9n2wLYf62A2aM2Ewe2y6"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "496xsVn5gQW6YIWY66C8K"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4y0ryiGHeE8AaqyiiOgIO"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0zd818fqktdq"
+          }
+        },
+        "id": "40uNiSfSnYAKIiOSAywAYk",
+        "type": "Entry",
+        "createdAt": "2018-02-07T14:52:13.035Z",
+        "updatedAt": "2018-02-07T14:52:13.035Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "RPRC Homepage",
+        "portalIds": [
+          "tt-organic"
+        ],
+        "path": "home/v",
+        "components": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3LmprsDaec04SAOGu44mIk"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0zd818fqktdq"
+          }
+        },
+        "id": "3xv2pmwTDGGQCWYkus8MeU",
+        "type": "Entry",
+        "createdAt": "2018-02-09T11:38:29.576Z",
+        "updatedAt": "2018-02-09T11:38:29.576Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "RPRC Homepage PPC ",
+        "portalIds": [
+          "ppc-pure_brand",
+          "ppc-generic",
+          "ppc-brand_generic"
+        ],
+        "path": "home/v",
+        "components": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4oD3IpfBe0ssmA0ySM4AYG"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
