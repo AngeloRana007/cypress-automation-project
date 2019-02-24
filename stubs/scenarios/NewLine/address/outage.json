@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "applicationName": "B2C Sales",
+        "outageType": "None",
+        "outageStart": "2017-05-18T16:00+01:00",
+        "outageEnd": "2017-05-29T21:00+01:00",
+        "disableCallCentres": false,
+        "disableLiveChat": false
+    }
+}
